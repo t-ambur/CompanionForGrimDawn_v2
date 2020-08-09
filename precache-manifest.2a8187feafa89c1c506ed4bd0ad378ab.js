@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dec8a028f68710f11f0603cf10a53573",
+    "revision": "19d3524e9e491be2c210e943f93e5020",
     "url": "/CompanionForGrimDawn_v2/index.html"
   },
   {
