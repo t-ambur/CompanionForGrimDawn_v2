@@ -14,10 +14,10 @@ return(
   <Router>
     <div className="link-buttons">
       <header className="buttons-header">
-        <Link to="/">
+        <Link to="/CompanionForGrimDawn_v2">
             <button className="const-butt"> Devotions </button>
         </Link>
-        <Link to="/masteries">
+        <Link to="/CompanionForGrimDawn_v2/masteries">
             <button className="mastery-butt"> Masteries </button>
         </Link>
       </header>
@@ -25,7 +25,8 @@ return(
     <div>
       <Switch>
         <Route path="/" exact> <CompanionV1 /> </Route>
-        <Route path="/masteries"> <Masteries /> </Route>
+        <Route path="/CompanionForGrimDawn_v2" exact> <CompanionV1 /> </Route>
+        <Route path="/CompanionForGrimDawn_v2/masteries"> <Masteries /> </Route>
       </Switch>
     </div>
   </Router>
