@@ -19,7 +19,6 @@ class Masteries extends React.Component
         return(
             <div>
                 <h1> Still in progress... Check back soon!</h1>
-
             </div>
         )
     }

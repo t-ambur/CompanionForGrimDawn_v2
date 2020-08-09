@@ -4,7 +4,7 @@ import './companion.css';
 
 import CompanionV1 from './companionV1';
 import Masteries from './masteries';
-
+import Changes from './changes';
 
 function Nav()
 {
@@ -20,6 +20,9 @@ return(
         <Link to="/CompanionForGrimDawn_v2/masteries">
             <button className="mastery-butt"> Masteries </button>
         </Link>
+        <Link to="/CompanionForGrimDawn_v2/changelog">
+            <button className="change-butt"> Change Log </button>
+        </Link>
       </header>
     </div>
     <div>
@@ -27,6 +30,7 @@ return(
         <Route path="/" exact> <CompanionV1 /> </Route>
         <Route path="/CompanionForGrimDawn_v2" exact> <CompanionV1 /> </Route>
         <Route path="/CompanionForGrimDawn_v2/masteries"> <Masteries /> </Route>
+        <Route path="/CompanionForGrimDawn_v2/changelog"> <Changes /> </Route>
       </Switch>
     </div>
   </Router>
