@@ -215,13 +215,13 @@ export function cardDetail(selected, isOpen, onClose, resources, onAddItemClicke
 
 export function getHeader(resources, pointsUsed, listener) {
     return (
-        <Stack background={"white"} shadow="md" align={"center"} style={{
+        <Stack background={"grey"} shadow="md" align={"center"} style={{
             position: "sticky",
             top: "0"
         }}>
             <Stack isInline w="100%" align={"center"}>
                 <Text w="100%" fontSize="4xl" px={8} my={2}>
-                    Companion For Grim Dawn
+                    Companion For Grim Dawn v2
                 </Text>
                 <Image py={2} pl={4} src={ascendantImg}/>
                 <Text>
@@ -275,7 +275,7 @@ export function getHeader(resources, pointsUsed, listener) {
                 <Input
                     variant="filled"
                     focusBorderColor="null"
-                    style={{background: "rgba(0,0,0,0.04)", transition: ".3s"}}
+                    style={{background: "white", transition: ".3s"}}
                     textAlign={['left', 'center']}
                     type="text"
                     fontSize={32}
@@ -289,7 +289,7 @@ export function getHeader(resources, pointsUsed, listener) {
                         localStorage.setItem("search", e.target.value.toLowerCase())
                     }}
                     _focus={{
-                        borderColor: "null",
+                        borderColor: "white",
                         shadow: "md",
                         position: "relative",
                         top: "-2px",

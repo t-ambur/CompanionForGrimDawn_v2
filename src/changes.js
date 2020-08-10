@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import React from 'react';
 import './companion.css';
 
 
@@ -24,9 +23,12 @@ class Changes extends React.Component
                 <ul>
                     <li> Devotions up to date with Grim Dawn version </li>
                     <li> Forked and rehosted from https://github.com/andrewsnyder328/CompanionForGrimDawn to https://github.com/t-ambur/CompanionForGrimDawn_v2 </li>
-                    <li> Added simple navigation bar/buttons at top of screen (Devotions, Masteries, Change Log) </li>
+                    <li> Added simple navigation bar/buttons at top of screen (Devotions, Masteries, Links, Change Log) </li>
+                    <li> Added some important links</li>
+                    <li> Added this change log</li>
                     <li> Updated favicon and website title </li>
                     <li> Structural changes/additions to code to faciliate faster development in the future</li> 
+                    <li> CSS coloring changes (Darker)</li>
                 </ul>
             </div>
         )
