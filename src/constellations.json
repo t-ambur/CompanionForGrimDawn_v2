@@ -59,7 +59,7 @@
       "ascendant": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/b7/Anvil_Constellation_Icon.png/360px-Anvil_Constellation_Icon.png?version=d2e0e30e7293c0181447a48af44a0ec7",
-    "description": "15 Defensive Ability\n\n+20 Physique\n\n+30 Armor\nIncreases Armor Absorption by 3%\n\n170 Internal Trauma over 5 Seconds\n+10 Offensive Ability\n+15 Defensive Ability\n+20% Constitution\n\nTargo's Hammer (33% Chance on Block)\n\n0.1 Second Skill Recharge\n100% Chance to pass through Enemiesx% Weapon Damagex Physical Damage+x% Internal Trauma Damagex% Chance to Stun"
+    "description": "1) +15 Defensive Ability\n2) +20 Physique\n3) +30 Armor, Increases Armor Absorption by 3%\n4) 170 Internal Trauma over 5 Seconds, +10 Offensive Ability, +15 Defensive Ability, +20% Constitution\n5) Ability - Targo's Hammer: (33% Chance on Block)\n<0.1 Second Skill Recharge, 100% Chance to pass through Enemies, 0.3 Meter Radius>\nx% Main Hand Damage, x% Retaliation Damage added to Attack, x Physical Damage, +x% Internal Trauma Damage, x% Chance of Stun target for 1 Second"
   },
   {
     "name": "Empty Throne",
@@ -71,7 +71,7 @@
       "ascendant": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/1/19/Empty_Throne_Constellation_Icon.png?version=88912bce526832124b2e3c1420d25be0",
-    "description": "15% reduced Stun Duration\n\n8% Pierce Resistance\nBonus to All Pets: 8% Pierce Resistance\n\n8% Chaos Resistance\nBonus to All Pets: 8% Chaos Resistance\n\n8% Aether Resistance\nBonus to All Pets: 8% Aether Resistance"
+    "description": "1) +12 Defensive Ability, 10% Slow Resistance\n2) +20 Defensive Ability, 8% Pierce Resistance [Bonus to All Pets: 8% Pierce Resistance]\n 3E) 10% Chaos Resistance, 22% Reduced Stun Duration [Bonus to All Pets: 10% Chaos Resistance, 22% Reduced Stun Duration]\n3W) 10% Aether Resistance, 22% Reduced Freeze Duration [Bonus to All Pets: 10% Aether Resistance, 22% Reduced Freeze Duration]"
   },
   {
     "name": "Falcon",
@@ -84,7 +84,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/8/8c/Falcon_Constellation_Icon-0.png/360px-Falcon_Constellation_Icon-0.png?version=5d61343fba30ba87f807dbc114976517",
-    "description": "+15% Physical Damage\n\n+24% Bleeding Damage\n\n+15 Cunning\n\n+24% Physical Damage\n\nFalcon Swoop (15% Chance on Attack)\n\nx Projectilesx% Weapon Damagex Physical Damagex Bleeding Damage over 3 seconds"
+    "description": "1) +15% Physical Damage\n2) +35 Health, +15 Offensive Ability\n3) +20 Cunning\n4) +24% Physical Damage, +24% Bleeding Damage\n5) Ability - Falcon Swoop: (15% Chance on Attack)\n<2 Second Skill Recharge, 3 (to 6) Projectile(s), 100% Chance to pass through Enemies, 0.1 Meter Radius>\nx% Main Hand Damage, x Physical Damage, x Bleeding Damage over 3 Seconds"
   },
   {
     "name": "Hammer",
@@ -96,7 +96,7 @@
       "ascendant": 4
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/2/2a/Hammer_Constellation_Icon.png/360px-Hammer_Constellation_Icon.png?version=663fffc6a7089c60aae1ac47fc514b38",
-    "description": "+15% Physical Damage\n\n+30% Internal Trauma Damage\n+8 Defensive Ability\n\n+15% Physical Damage\n+30% Internal Trauma Damage"
+    "description": "1) +15% Physical Damage\n2) +50% Internal Trauma Damage with +30% Increased Duration, +15 Defensive Ability\n3) +24% Physical Damage, +30% Internal Trauma Damage, Increases Armor by 6%"
   },
   {
     "name": "Harpy",
@@ -108,7 +108,7 @@
       "ascendant": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/4/44/Harpy_Constellation_Icon.png?version=b10f1625f71f966cabd9ca2683e2d959",
-    "description": "+15% Pierce Damage\n+15% Cold Damage\n\n+10 Cunning\n+1.5 Energy regenerated per Second\n\n5-10 Piercing Damage\n+24% Pierce Damage\n+24% Cold Damage\n\n+15 Offensive Ability\n10% Bleeding Resistance"
+    "description": "1) +15% Pierce Damage, +15% Cold Damage\n2) +15 Cunning, +1.5 Energy Regenerated per Second\n3E) x Piercing Damage, +3% Crit Damage, +24% Pierce Damage, +24% Cold Damage\n3W) +24 Offensive Ability, 10% Bleeding Resistance"
   },
   {
     "name": "Nighttalon",
@@ -121,7 +121,7 @@
       "chaos": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/8/89/NightTalon.png/360px-NightTalon.png?version=fa8486ab16ff10f89407836a702e91cc",
-    "description": "+8 Cunning\n\nBonus to All Pets : +15% to All Damage\n\n10% Elemental Resistance\n\nBonus to All Pets: 10% Elemental Resistance\n\n33 Bleeding Damage over 3 seconds\n\nBonus to All Pets: 12 Bleeding Damage over 3 seconds, +25% to All Damage\n\n+35% Bleeding Damage\n\nBonus to All Pets: 24 Bleeding Damage over 3 seconds, +60% Bleeding Damage, +5% Attack Speed"
+    "description": "1) +15 Cunning [Bonus to All Pets: +15% to All Damage]\n2) 10% Elemental Resistance [Bonus to All Pets: 10% Elemental Resistance]\n3N) +50% Bleeding Damage [Bonus to All Pets: 24 Bleeding Damage over 3 Seconds, +60% Bleeding Damage, +5% Attack Speed\n3S) +20% Bleeding Damage with +20% Increased Duration [Bonus to All Pets: 12 Bleeding Damage over 3 Seconds, +25% to All Damage]"
   },
   {
     "name": "Owl",
@@ -133,7 +133,7 @@
       "ascendant": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/47/Owl_Constellation_Icon.png/360px-Owl_Constellation_Icon.png?version=7cad1ddc4241e61643f31d4d7846430e",
-    "description": "+10 Spirit\n\n8% Elemental Resistance\n-5% Skill Energy Cost\n\n+24% Elemental Damage\n+15 defensive Ability\n+15% Reflected Damage Reduction\n\n+50% Burn Damage\n+50% Frostburn Damage\n+50% Electrocute Damage\n"
+    "description": "1) +15 Cunning, +15 Spirit\n2) 8% Elemental Resistance, -5% Skill Energy Cost\n3E) +30% to All Damage, +15% Defensive Ability, 15% Reflected Damage Reduction\n3W) +50% Internal Trauma Damage with +20% Increased Duration, +50% Bleeding Damage with +20% Increased Duration, +50% Burn Damage with +20% Increased Duration, +50% Frostburn Damage with +20% Increased Duration, +50% Electrocute Damage with +20% Increased Duration, +50% Poison Damage with +20% Increased Duration, +50% Vitality Decay with +20% Increased Duration"
   },
   {
     "name": "Shepherd's Crook",
@@ -145,7 +145,7 @@
       "ascendant": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/31/Shepherds_Crook_Constellation_Icon.png/360px-Shepherds_Crook_Constellation_Icon.png?version=1e8d2511ee4ded6376253f8f2160ae0c",
-    "description": "+40 Health\nBonus to All Pets: +8% Health\n\n+10 Cunning\n+40 Health\n\n10% Elemental Resistance\nBonus to All Pets: 15% Elemental Resistance\n\n+3% Health\nBonus to All Pets: +5% Health, +5% Defensive Ability\n\nShepherd's Call (25% Chance on Attack)\n\n+x Offensive AbilityBonus to All Pets:+x% to All Damagex% Crit Damage+x% to All Retaliation Damage"
+    "description": "1) +40 Health [Bonus to All Pets: +8% Health]\n2) +15 Cunning, +40 Health\n3) 10% Elemental Resistance [Bonus to All Pets: 15% Elemental Resistance]\n4) +3% Health [Bonus to All Pets: +5% Health, +5% Defensive Ability]\n5) Ability - Shepherd's Call (25% Chance on Attack)\n<6 Second Skill Recharge, 4 Second Duration>\n+x Offensive Ability [Bonus to All Pets: +x% to All Damage, +x% Crit Damage, +x% to All Retaliation Damage]"
   },
   {
     "name": "Toad",
@@ -158,7 +158,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/b/b2/Toad_Constellation_Icon.png?version=9ca5e160739c2e31ee632ae689551a56",
-    "description": "8% Vitality Resistance\n\n+10 Spirit\n+10 Offensive Ability\n\n3% of Attack Damage Converted to Health\n+60 Health\n\n4 Vitality Damage\n4 Aether Damage\n+24% Vitality Damage\n+24% Aether Damage"
+    "description": "1) 8% Vitality Resistance\n2) +15 Spirit, +10 Offensive Ability [Bonus to All Pets: +3% Offensive Ability\n3) 3% of Attack Damage Converted to Health, +60 Health [Bonus to All Pets: 4% of Attack Damage converted to Health\n4)+24% Vitality Damage, +24% Aether Damage, +6% Damage to Beasts [Bonus to All Pets: +3% Offensive Ability]"
   },
   {
     "name": "Wolverine",
@@ -170,7 +170,7 @@
       "ascendant": 6
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/c/c6/Wolverine_Constellation_Icon.png?version=8555e99cc73e4d33c2b4c3e65b5487bc",
-    "description": "+15 Defensive Ability\nBonus to All Pets: 10% Pierce Resistance\n\n30 Piercing Retaliation\n+20% to All Retaliation Damage\nBonus to All Pets: 50 Piercing Retaliation\n\n+25 Defensive Ability\nBonus to All Pets: 25% Bleeding Resistance\n\n+35% to All Retaliation Damage\nBonus to All Pets: +50% to All Retaliation Damage\n\n+4% Defensive Ability\n-10% Physique Requirement for Melee Weapons\n-10% Cunning Requirement for Melee Weapons\nBonus to All Pets: +5% Defensive Ability"
+    "description": "1) +15 Defensive Ability [Bonus to All Pets: 10% Pierce Resistance]\n2) +30% to All Retaliation Damage [Bonus to All Pets: 8% Vitality Resistance]\n3) +25 Defensive Ability [Bonus to All Pets: 8% Poison & Acid Resistance]\n4S) +50% to All Retaliation Damage [Bonus to All Pets: 25% Bleeding Resistance]\n4E) +4% Defensive Ability, -10% Physique Requirement for Melee Weapons, -10% Cunning Requirement for Melee Weapons [Bonus to All Pets: +5% Defensive Ability"
   },
   {
     "name": "Fiend",
@@ -183,7 +183,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/d/d2/Fiend_Constellation_Icon.png/360px-Fiend_Constellation_Icon.png?version=861db5031220fc977cbfcfb8800b0259",
-    "description": "+15% Fire Damage\n+15% Chaos Damage\n\n+10 Spirit\nBonus to All Pets: +15% Fire Damage\n\n8% Chaos Resistance\n\n+24% Fire Damage\n+24% Chaos Damage\nBonus to All Pets: +40% Fire Damage\n\nFlame Torrent (25% Chance on Attack)\n\nAoEx% Weapon Damagex Fire Damagex Chaos Damagex Burn Damage over 3 seconds\n"
+    "description": "1) +15% Fire Damage, +15% Chaos Damage\n2) +15 Spirit [Bonus to All Pets: +25% Fire Damage]\n3) 8% Chaos Resistance\n4) +24% Fire Damage, +24% Chaos Damage [Bonus to All Pets: +40% Fire Damage]\n5) Ability - Flame Torrent (25% Chance on Attack)\n<0.5 Second Skill Recharge, 100% Chance to pass through Enemies, 0.5 Meter Radius, 2 Projectiles>\nx% Main Hand Damage, x Fire Damage, x Chaos Damage, x Burn Damage over 3 seconds\n"
   },
   {
     "name": "Ghoul",
@@ -195,7 +195,7 @@
       "chaos": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/8/8e/Ghoul_Constellation_Icon.png?version=d775055f2d530f5b93a1df89ea7a6efa",
-    "description": "+10 Physique\n+8 Defensive Ability\n\n30 Life Leech over 2 Seconds\n+6 Health Regenerated per second\n\n+10 Physique\n+10 Spirit\n+15 Defensive Ability\n\n4% of Attack Damage converted to Health\nIncreases Health Regeneration by 15%\n\nGhoulish Hunger (100% Chance at 45% Health)\n\nx Life Leech over 2 seconds+% Life Leech Damagex% Attack Damage converted to Health+% Attack Speed+% Physical Resistance"
+    "description": "1) +15 Physique, +8 Defensive Ability\n2) +3% Health\n+6 Health Regenerated per second\n3S) +15 Physique, +15 Spirit, +15 Defensive Ability\n3N) 4% of Attack Damage converted to Health, Increases Health Regeneration by 15%\n4N) Ability - Ghoulish Hunger (100% Chance at 45% Health)\n<50 (to 30) Second Skill Recharge, 6 Second Duration>\nx% of Attack Damage converted to Health, +% Attack Speed, +% Physical Resistance"
   },
   {
     "name": "Jackal",
@@ -207,7 +207,7 @@
       "chaos": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/1/14/Jackal_Constellation_Icon.png/360px-Jackal_Constellation_Icon.png?version=2ba1585cbbdad30ff0380f13bfa5782f",
-    "description": "+6% Energy\nBonus to All Pets: +3% Health\n\n+12 Offensive Ability\n+6% Attack Speed\n+6% Casting Speed\n\n+15% to All Damage\nBonus to All Pets: +5% Attack Speed\n"
+    "description": "1) +6% Energy [Bonus to All Pets: +3% Health]\n2) +12 Offensive Ability, +6% Total Speed\n3) +15% to All Damage, 2% Physical Resistance [Bonus to All Pets: +5% Attack Speed]"
   },
   {
     "name": "Mantis",
@@ -358,7 +358,7 @@
       "eldritch": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/2/26/Raven_Constellation_Icon.png?version=e2c2b2ade2f14462a3324ac259b9e097",
-    "description": "+8 Spirit\nPet Bonus: +15% to All Damage\n\n+10 Spirit\n+1 Energy Regenerated per Second\n\n+15 Offensive Ability\nPet Bonus: +5% Offensive Ability\n\n+10% to All Damage\nPet Bonus: +60% Lightning Damage"
+    "description": "+8 Spirit\nBonus to All Pets: +15% to All Damage\n\n+10 Spirit\n+1 Energy Regenerated per Second\n\n+15 Offensive Ability\nBonus to All Pets: +5% Offensive Ability\n\n+10% to All Damage\nBonus to All Pets: +60% Lightning Damage"
   },
   {
     "name": "Scholar's Light",
@@ -944,7 +944,7 @@
       "primordial": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/cf/Revenant_Constellation_Icon.png/360px-Revenant_Constellation_Icon.png?version=3a3d3b6c9874aac133ad39a1bd769bd4",
-    "description": "10% Chance of 40 Energy Leech over 2 Seconds\n+15% Energy Absorbed from Enemy Spells\n\n10% Less Damage from Undead\n+3% Health\n\n24% Vitality Resistance\nBonus to All Pets: 15% Vitality Resistance\n\n6% of Attack Damage converted to Health\n+175 Health\n\n+15% Damage to Undead\n+6% Attack Speed\n+6% Casting Speed\nBonus to All Pets: 5% of Attack Damage converted to Health\n\nRaise the Dead (100% Chance on Enemy Death)\n\nSummon Scales with Pet Bonusesx Aether Damagex Vitality DamageSlower target Movement Speed"
+    "description": "10% Chance of 40 Energy Leech over 2 Seconds\n+15% Energy Absorbed from Enemy Spells\n\n10% Less Damage from Undead\n+3% Health\n\n24% Vitality Resistance\nBonus to All Pets: 15% Vitality Resistance\n\n6% of Attack Damage converted to Health\n+175 Health\n\n+15% Damage to Undead\n+6% Attack Speed\n+6% Casting Speed\nBonus to All Pets: 5% of Attack Damage converted to Health\n\nRaise the Dead (100% Chance on Enemy Death)\n\nSummon Scales with Bonus to All Petsesx Aether Damagex Vitality DamageSlower target Movement Speed"
   },
   {
     "name": "Rhowan's Crown",
@@ -1191,7 +1191,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/e3/Dying_God_Constellation_Icon.png/360px-Dying_God_Constellation_Icon.png?version=421d48337ffdba40f787326b78a0b4f1",
-    "description": "+80% Vitality Damage\n+20 Offensive Ability\n\n+80% Chaos Damage\n+20 Offensive Ability\n\n+35 Spirit\n+3% Offensive Ability\nBonus to All Pets: +30% to All Damage, +5% Attack Speed\n\n+45 Offensive Ability\n+25 Defensive Ability\n15% Chaos Resistance\n\n+100% Vitality Damage\n+100% Chaos Damage\n\n10-36 Chaos Damage\nBonus to All Pets: +60% to All Damage, +10% Crit Damage\n\nHungering Void (100% Chance on Attack)\n\nx Energy Cost/secondx Health Cost/secondAoEx% Crit Damagex% Vitality Damagex% Chaos Damage+x% Total Speedx Chaos Retaliationx% Chance of 3 Seconds of Terrify RetaliationPet Bonus:x% Total Damagex% Crit Damagex% Chance of Stun Target for 1 Secondx% Chance of 30% Slow Target for 3 Seconds"
+    "description": "+80% Vitality Damage\n+20 Offensive Ability\n\n+80% Chaos Damage\n+20 Offensive Ability\n\n+35 Spirit\n+3% Offensive Ability\nBonus to All Pets: +30% to All Damage, +5% Attack Speed\n\n+45 Offensive Ability\n+25 Defensive Ability\n15% Chaos Resistance\n\n+100% Vitality Damage\n+100% Chaos Damage\n\n10-36 Chaos Damage\nBonus to All Pets: +60% to All Damage, +10% Crit Damage\n\nHungering Void (100% Chance on Attack)\n\nx Energy Cost/secondx Health Cost/secondAoEx% Crit Damagex% Vitality Damagex% Chaos Damage+x% Total Speedx Chaos Retaliationx% Chance of 3 Seconds of Terrify RetaliationBonus to All Pets:x% Total Damagex% Crit Damagex% Chance of Stun Target for 1 Secondx% Chance of 30% Slow Target for 3 Seconds"
   },
   {
     "name": "Ishtak, the Spring Maiden",
