@@ -903,7 +903,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/1/12/Messenger_of_War_Constellation_Icon.png/360px-Messenger_of_War_Constellation_Icon.png?version=6468db0cdec8b1faea79d34c85e1a4ba",
-    "description": "90 Piercing Retaliation\n+30% to All Retaliation Damage\n\n+10 Physique\n+5% Movement Speed\n\n+50 Armor\n+50% to All Retaliation Damage\n\nIncreases Armor by 8%\n120 Piercing Retaliation\n\n15% Pierce Resistance\n25% Damage Reflected\n\nMessenger of War (20% Chance when Hit by Melee Attacks)\n\n+% Movement Speed % Slow Resistancex Piercing Retaliation+x% to All Retaliation Damage"
+    "description": "1) x Fire Retaliation, +30% to All Retaliation Damage\n2) +20 Physique, +20 Offensive Ability, +5% Movement Speed\n3E) +25 Offensive Ability, +50% to All Retaliation Damage\n4E) Increases Armor by 8%, x Fire Retaliation\n3N) 15% Elemental Resistance, x Fire Retaliation\n4N) Ability - Messenger of War (20% Chance when Hit by Melee Attacks)\n<30 Second Skill Recharge, 8 Second Duration>\n+% Movement Speed, x% Slow Resistanc, x Fire Retaliation, +x% to All Retaliation Damage"
   },
   {
     "name": "Murmur, Mistress of Rumors",
@@ -918,7 +918,7 @@
       "eldritch": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/a/a3/Murmur_Constellation_Icon.png/360px-Murmur_Constellation_Icon.png?version=286577a2fc58335637a2fb09ade4626e",
-    "description": "+40% Cold Damage\n+40% Acid Damage\n\n3% Chance to Avoid Melee Attacks\n3% Chance to Avoid Projectiles\n\n+150 Health\n+15 Defensive Ability\n\nRumor (15% Chance on Attack)\n\nx Cold Damagex Acid Damage-x Offensive Ability-x% Cold Resistance-x% Poison & Acid Resistance\n\n+15 Defensive Ability\n10% Vitality Resistance\n\n+50% Cold Damage\n+50% Acid Damage\n+80% Frostburn Damage"
+    "description": "1) +40% Cold Damage, +40% Acid Damage\n2) 3% Chance to Avoid Melee Attacks, 3% Chance to Avoid Projectiles\n3) +150 Health, +15 Defensive Ability\n4) Ability - Rumor (15% Chance on Attack)\n<1 Second Skill Recharge, 4 Second Duration>\nx Cold Damage, x Acid Damage, -x Offensive Ability, -x% Cold Resistance, -x% Poison & Acid Resistance\n5W) +15 Defensive Ability, 10% Vitality Resistance\n5E) +50% Cold Damage, +50% Acid Damage, +80% Frostburn Damage"
   },
   {
     "name": "Oklaine's Lantern",
@@ -931,7 +931,7 @@
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/bc/Oklaines_Lantern_Constellation_Icon.png/360px-Oklaines_Lantern_Constellation_Icon.png?version=fd9a243d28e45bb5a2bc56e6213881de",
-    "description": "(Requires a caster off-hand or scepter/dagger)\n\nIncreases Energy Regeneration by 15%\n\n+25 Offensive Ability\n+20 Defensive Ability\n\n+5% Crit Damage\n+15 Offensive Ability\n\n+50% to All Damage\n25% Reduced Entrapment Duration\n\n+2 Energy Regenerated per second\n+5% Attack Speed\n+5% Casting Speed"
+    "description": "Requires a scepter, dagger or caster off-hand\n1) Increases Energy Regeneration by 15%\n2) +25 Offensive Ability, +20 Defensive Ability\n3) +5% Crit Damage, +15 Offensive Ability\n4) +50% to All Damage, 25% Reduced Entrapment Duration\n5) +2 Energy Regenerated per second, +5% Attack Speed, +5% Casting Speed"
   },
   {
     "name": "Revenant",
@@ -944,7 +944,7 @@
       "primordial": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/cf/Revenant_Constellation_Icon.png/360px-Revenant_Constellation_Icon.png?version=3a3d3b6c9874aac133ad39a1bd769bd4",
-    "description": "10% Chance of 40 Energy Leech over 2 Seconds\n+15% Energy Absorbed from Enemy Spells\n\n10% Less Damage from Undead\n+3% Health\n\n24% Vitality Resistance\nBonus to All Pets: 15% Vitality Resistance\n\n6% of Attack Damage converted to Health\n+175 Health\n\n+15% Damage to Undead\n+6% Attack Speed\n+6% Casting Speed\nBonus to All Pets: 5% of Attack Damage converted to Health\n\nRaise the Dead (100% Chance on Enemy Death)\n\nSummon Scales with Bonus to All Petsesx Aether Damagex Vitality DamageSlower target Movement Speed"
+    "description": "1) 10% Chance of 40 Energy Leech over 2 Seconds, +15% Energy Absorbed from Enemy Spells\n2) 10% Less Damage from Undead, +3% Health\n3) 24% Vitality Resistance [Bonus to All Pets: 15% Vitality Resistance]\n4) 6% of Attack Damage converted to Health, +175 Health\n5) +4% Attack Speed, +4% Casting Speed [Bonus to All Pets: 5% of Attack Damage converted to Health]\n6) Ability - Raise the Dead (100% Chance on Enemy Death)\n<2 Second Skill Recharge, 3 Summon Limit, Skeleton Lives for 6 Seconds, Summon Scales with Bonus to All Pets>\nx Aether Damage, x Vitality Damage, x% Slower target Movement Speed, 5 Reduced target's Resistances for 1 Second"
   },
   {
     "name": "Rhowan's Crown",
@@ -958,7 +958,7 @@
       "eldritch": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/e/e4/Rhowans_Crown_Constellation_Icon.png?version=186764ed9bac9d2c5b205f64e6e33a75",
-    "description": "6-9 Elemental Damage\n+30% Elemental Damage\n\n+20 Spirit\nBonus to All Pets: +40% Elemental Damage\n\n18% Elemental Resistance\nBonus to All Pets: 10% Elemental Resistances\n\n+40% Elemental Damage\n+60% Burn Damage\n+60% FrostburnDamage \n+60% Electrocute Damage\n8% Chaos Resistance\n\nElemental Storm (25% on Attack)\n\nAoEx Elemental Damagex Burn/Frostburn/Electrocute Damagex Reduced target's Elemental Resistances for 2 seconds"
+    "description": "1) x Elemental Damage, +30% Elemental Damage\n2) +20 Spirit, +20 Offensive Ability [Bonus to All Pets: +40% Elemental Damage]\n3) Ability - Elemental Storm (25% on Attack)\n<1.5 Second Skill Recharge, 5 Second Duration, 3.5 Meter Radius>\nx Elemental Damage, x Burn Damage over 2 Seconds, x Frostburn Damage over 2 Seconds, x Electrocute Damage over 2 Seconds, x Reduced target's Elemental Resistances for 2 seconds\n4) 18% Elemental Resistance [Bonus to All Pets: 10% Elemental Resistance]\n5) +40% Elemental Damage, +60% Burn Damage, +60% Frostburn Damage, +60% Electrocute Damage, 8% Chaos Resistance"
   },
   {
     "name": "Rhowan's Scepter",
@@ -972,7 +972,7 @@
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/b0/Rhowans_Scepter_Constellation_Icon.png/360px-Rhowans_Scepter_Constellation_Icon.png?version=35c3ed9ff29f59ca62f6f657710a63dd",
-    "description": "(Requires a Mace)\n\n+20 Defensive Ability\n\n+6% Health\n\n+50% Physical Damage\n\n75 Internal Trauma over 5 Seconds\n+80% Internal Trauma Damage\n\n+30 Defensive Ability\n\n8-12 Physical Damage\n5% Chance of Stun target for 1 second\n+10% Stun Duration"
+    "description": "Requires a Mace\n1) +20 Defensive Ability\n2) +6% Health\n3W) +50% Physical Damage\n4W) x Internal Trauma over 5 Seconds, +80% Internal Trauma Damage\n3E) +30 Defensive Ability, +40 Armor\n5W) x Internal Trauma over 5 Seconds, +50% Internal Trauma Damage with +50% Increased Duration"
   },
   {
     "name": "Scales of Ulcama",
@@ -984,7 +984,7 @@
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/42/Scales_of_Ulcama_Constellation_Icon.png/360px-Scales_of_Ulcama_Constellation_Icon.png?version=e0a8e8f7da05428a0e9419eaa070ebad",
-    "description": "+250 Health\n+300 Energy\n\n+6 Health Regenerated per Second\nIncreases Health Regeneration by 10%\n\n+6% Health\n+4% Movement Speed\n\n+2 Energy Regenerated per Second\nIncreases Energy Regeneration by 10%\n\n+30% to All Damage\n+20 Physique\n\nTip the Scales (20% Chance when Hit)\n\nVitality DamageEnergy Leech over TimeAttack Damage converted to Health"
+    "description": "1) +250 Health, +300 Energy\n2) +4% Health, +4% Movement Speed\n3W) +3 Energy Regenerated per second, Increases Energy Regeneration by 25%\n4W) 5% of Attack Damage converted to Health, +15 Health Regenerated per second, Increases Health Regeneration by 25%\n3E) +20 Physique, +20 Offensive Ability, +30 Defensive Ability\n4E) Ability - Tip the Scales (20% Chance when Hit)\n<1 Second Skill Recharge>\nx% Main Hand Damage, x Vitality Damage, x Energy Leech over 2 Seconds, x% Attack Damage converted to Health, x Reduced target's Resistances for 3 Seconds"
   },
   {
     "name": "Shieldmaiden",
@@ -998,7 +998,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/cc/Shieldmaiden_Constellation_Icon.png/360px-Shieldmaiden_Constellation_Icon.png?version=d7cd38f6d1e239f48aa5eddb37855bf9",
-    "description": "(Requires a Shield)\n\n+4% Shield Block Chance\n\n+15% Shield Damage Blocked\n\n+50% Internal Trauma Damage\n+50% to All Retaliation Damage\n\n60 Internal Trauma over 5 Seconds\n200 Pierce Retaliation\n\n25% Reduced Stun Duration\n+20% Shield Damage blocked\n\n-15% Shield Recovery Time\n+10% Shield Damage Blocked"
+    "description": "Requires a Shield\n1) +15% Shield Damage Blocked\n2) +50% Internal Trauma Damage, +50% to All Retaliation Damage\n3W) +6% Shield Block Chance\n4W) x Internal Trauma over 5 Seconds, x Physical Retaliation\n3E) 25% Reduced Stun Duration, +20% Shield Damage blocked\n4E) -18% Shield Recovery Time, +10% Shield Damage Blocked"
   },
   {
     "name": "Solael's Witchblade",
@@ -1012,7 +1012,7 @@
       "eldritch": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/b9/Solaels_Witchblade_Constellation_Icon.png/360px-Solaels_Witchblade_Constellation_Icon.png?version=5de5040c5c9be3178a6d1ee184f8304c",
-    "description": "+40% Chaos Damage\n\n+15 Spirit\n+10 Offensive Ability\n\n10% Energy Burn (50% of Energy Burnt Causes Damage)\n+30% Chaos Damage\n+15 Defensive Ability\n\n+55% Fire Damage\n+55% Chaos Damage\n15% Fire Resistance\n\nEldritch Fire (15% Chance on Attack)\n\nx Fire Damagex Chaos Damage-% Movement Speed-% Fire Resistance-% Chaos Resistance"
+    "description": "1) +40% Chaos Damage\n2) +15 Physique, +15 Spirit, +10 Offensive Ability\n3) +30% Fire Damage, +30% Chaos Damage, +15 Defensive Ability\n4) +50% Fire Damage, +50% Chaos Damage, +15 Defensive Ability\n5) Ability - Eldritch Fire (15% Chance on Attack)\n<1 Second Skill Recharge, 4 Second Duration>\nx Fire Damage, x Chaos Damage, -x% Movement Speed, -x% Fire Resistance, -x% Chaos Resistance"
   },
   {
     "name": "Solemn Watcher",
@@ -1025,7 +1025,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/a/a7/Solemn_Watcher_Constellation_Icon.png/360px-Solemn_Watcher_Constellation_Icon.png?version=7d643c92db5de97dbc69479cc351a401",
-    "description": "+20 Physique\n\n25% Cold Resistance\n\n18% Pierce Resistance\n\n+3% Physique\n+30 Defensive Ability\n\n+5% Defensive Ability\n+20% Reflected Damage Reduction"
+    "description": "1) +20 Physique\n2) +40 Armor, 25% Cold Resistance\n3) +40 Armor, 18% Pierce Resistance\n4) +3% Physique, +30 Defensive Ability\n5) +4% Defensive Ability, +20% Reflected Damage Reduction"
   },
   {
     "name": "Staff of Rattosh",
@@ -1040,7 +1040,7 @@
       "primordial": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/f/f6/Staff_of_Rattosh_Constellation_Icon.png/360px-Staff_of_Rattosh_Constellation_Icon.png?version=7186b95cb7a87217205b9ebbe1c3e45b",
-    "description": "+20 Defensive Ability\nBonus to All Pets: +3% Defensive Ability\n\n15% Aether Resistance\nBonus to All Pets: 15% Aether Resistance\n\n+150 Health\nBonus to All Pets: +30% to All Damage\n\n+5% Health\n10% Vitality Resistance\nBonus to All Pets: 10% Vitality Resistance\n\n+50% Aether Damage\nBonus to All Pets: +50% to All Damage\n\n+3% Offensive Ability\nBonus to All Pets: +6% Crit Damage, +3% Offensive Ability"
+    "description": "1) +20 Defensive Ability [Bonus to All Pets: +3% Defensive Ability]\n2) 15% Aether Resistance [Bonus to All Pets: 15% Aether Resistance]\n3W) +150 Health [Bonus to All Pets: +30% to All Damage]\n4W) +5% Health, 10% Vitality Resistance [Bonus to All Pets: 10% Vitality Resistance]\n3E) +50% Aether Damage, [Bonus to All Pets: +50% to All Damage]\n4E) +3% Offensive Ability [Bonus to All Pets: +6% Crit Damage, +3% Offensive Ability]"
   },
   {
     "name": "Targo the Builder",
@@ -1053,7 +1053,7 @@
       "order": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/7/7a/Targo_the_Builder_Constellation_Icon.png/360px-Targo_the_Builder_Constellation_Icon.png?version=c823b5fce523050ef3e13bca3ae2715d",
-    "description": "+20 Defensive Ability\n\n+5% health\n\nIncreases Armor by 5%\n\n+5% Health\n\n+300 Health\n+20 Defensive Ability\n\nIncreases Armor by 5%\n+20% Shield Damage Blocked\n\nShield Wall (33% Chance on Attack)\n\nRequires a ShieldIncreases Armor by x%+x% Shield Damage Blockedx% Damage Reflected"
+    "description": "1) +20 Defensive Ability, +30% to All Retaliation Damage\n2) +5% Health, 8% Aether Resistance\n3S) Increases Armor by 5%, x Physical Damage Retaliation\n3N) +5% Health, 8% Chaos Resistance\n4N-E) +300 Health, +35 Defensive Ability, +30% to All Retaliation Damage\n4N-W) Increases Armor by 5%, +20% Shield Damage Blocked\n5N-W) Ability - Shield Wall (25% Chance on Attack)\n<8 Second Skill Recharge, 5 Second Duration>\nIncreases Armor by x%, +x% Shield Damage Blocked, x Physical Damage Retaliation"
   },
   {
     "name": "Tempest",
@@ -1067,7 +1067,7 @@
       "primordial": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/2/24/Tempest_Constellation_Icon.png/360px-Tempest_Constellation_Icon.png?version=aeafdfbc9579694ce501fd2b086f00de",
-    "description": "+40% Lightning Damage\n\n1-24 Lightning Damage\n\n+50% Lightning Damage\n+50% Electrocute Damage\n\n+20 Offensive Ability\n25% Lightning Resistance\n\n30% Chance of +100% Lightning Damage\n+3% Movement Speed\n\n+50% Electrocute Damage with +30% Increased Duration\n+20 Offensive Ability\n\nReckless Tempest (100% Chance on Critical Attack)\n\nx Target MaximumAoEx Lightning Damagex Electrocute Damagex% Chance to Stun"
+    "description": "1) +40% Lightning Damage\n2) x Lightning Damage, +20 Physique\n3) +50% Lightning Damage, +50% Electrocute Damage\n4) +20 Offensive Ability, 25% Lightning Resistance\n5W) 30% Chance of +200% Lightning Damage, +3% Movement Speed, 15% Reduced Stun Duration\n5E) +50% Electrocute Damage with +30% Increased Duration, +20 Offensive Ability\n6E) Ability - Reckless Tempest (100% Chance on Critical Attack)\n<10 Second Skill Recharge, 6 Second Duration, 1 Target Maximum, 8 Meter Radius, 0.5 Second Interval>\nx Lightning Damage, x Electrocute Damage, x% Chance to Stun"
   },
   {
     "name": "Typhos, the Jailor of Souls",
@@ -1078,11 +1078,11 @@
       "order": 3
     },
     "rewards": {
-      "ascendant": 2,
+      "ascendant": 3,
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/42/Typhos_Constellation_Icon.png/360px-Typhos_Constellation_Icon.png?version=1c320723d9ba056b1c02da4f7418446a",
-    "description": "Increase Armor by 5%\nBonus to All Pets: Increase Armor by 8%\n\n+40% Vitality Damage\n+40% Aether Damage\n\n15% Poison & Acid Resistance\nBonus to All Pets: 15% Poison & Acid Resistance\n\n3% Physical Resistance\nBonus to All Pets: +4% Total Speed, 8% Physical Resistance\n\n+100% Vitality Decay\n+5% Health\nBonus to All Pets: +5% Health\n\n+50% Vitality Damage\n+50% Aether Damage\nBonus to All Pets: +120% Vitality Damage"
+    "description": "1) +20 Offensive Ability [Bonus to All Pets: +3% Offensive Ability]\n2) +20 Defensive Ability [Bonus to All Pets: +3% Defensive Ability]\n3) 15% Poison & Acid Resistance, 15% Bleeding Resistance [Bonus to All Pets: 15% Poison & Acid Resistance, 15% Bleeding Resistance]\n4E) 4% Physical Resistance [Bonus to All Pets: +6% Total Speed, 10% Physical Resistance, 50% Reduced Stun Duration, 50% Reduced Mind Control Duration]\n4W) +5% Health, +20 Offensive Ability [Bonus to All Pets: +3% Offensive Ability]\n5W) +10% Crit Damage [Bonus to All Pets: +12% Crit Damage]"
   },
   {
     "name": "Ulo the Keeper of the Waters",
@@ -1096,7 +1096,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/8/86/Ulo_the_Keeper_of_the_Waters_Constellation_Icon.png/360px-Ulo_the_Keeper_of_the_Waters_Constellation_Icon.png?version=4456fb0b148b19a90c1e9061a4331ff4",
-    "description": "10% Elemental Resistance\nBonus to All Pets: 10% Elemental Resistance\n\n+100 Health\n+100 Energy\n30% Life Leech Resistance\n30% Energy Leech Resistance\n\n15% Poison & Acid Resistance\nBonus to All Pets: 15% Poison & Acid Resistance\n\n10% Chaos Resistance\nBonus to All Pets: 10% Chaos Resistance\n\nCleansing Waters (100% Chance on Attack)\n\nAoEPurge Effectx% Slow Target for 8 Seconds\n"
+    "description": "1) 10% Elemental Resistance [Bonus to All Pets: 10% Elemental Resistance]\n2) +200 Health, +200 Energy, 30% Life Leech Resistance, 30% Energy Leech Resistance\n3W) 10% Reduced Stun Duration, 10% Reduced Freeze Duration, 10% Reduced Petrify Duration\n3E) 15% Poison & Acid Resistance, 10% Chaos Resistance [Bonus to All Pets: 15% Poison & Acid Resistance, 10% Chaos Resistance]\n3S) Ability - Cleansing Waters (100% Chance on Attack)\n<26 Second Skill Recharge, 1 Second Duration, 3 Meter Radius>\nAoE Purge Effect, x% Slow Target for 8 Seconds\n"
   },
   {
     "name": "Wendigo",
@@ -1109,7 +1109,7 @@
       "chaos": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/3c/Wendigo_Constellation_Icon.png/360px-Wendigo_Constellation_Icon.png?version=8d4f56731f82678d7d9b6c0c2ff2c86e",
-    "description": "+40% Vitality Damage\n+40% Vitality Decay\n\n+15 Spirit\n+100 Health\n\n+5% Casting Speed\n10% Vitality Resistance\n\n10% Less Damage from Beasts\n+5% Health\n\n24 Vitality Decay over 3 seconds \n+50% Vitality Damage\n+50% Vitality Decay\n+50% Life Leech Damage\n\nWendigo's Mark (15% Chance on Attack)\n\nx Vitality Damagex% Attack Damage Converted to Health"
+    "description": "1) +40% Vitality Damage, +40% Vitality Decay\n2) +20 Spirit, +150 Health\n3) +5% Attack Speed, +5% Casting Speed, 4% Physical Resistance\n4) 10% Less Damage from Beasts, +5% Health\n5) x Vitality Decay over 3 seconds, +50% Vitality Damage, +50% Vitality Decay\n6) Ability - Wendigo's Mark (15% Chance on Attack)\n<4 Second Duration>\nx Vitality Damage, x% Attack Damage Converted to Health"
   },
   {
     "name": "Widow",
@@ -1122,7 +1122,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/6/6d/Widow_Constellation_Icon.png?version=42fb2bed2cc375a77c21fd91733ca47a",
-    "description": "+20% Aether Damage\n\n+5% Energy\n+18 Offensive Ability\n\n+15% Aether Damage\n+10 Spirit\n\n+10 Offensive Ability\n18% Aether Resistance\n\n+25% Lightning Damage\n+25% Aether Damage\n\nArcane Bomb (25% Chance on Attack)\n\nTakes 1 Second to armAoE, Limit: 6x Lightning Damagex Aether Damage-x Offensive Ability-x% Lightning Resistance-x% Aether Resistance"
+    "description": "1) +40% Aether Damage\n2) +5% Energy, +18 Offensive Ability\n3) +30% Aether Damage, +15 Physique, +15 Spirit\n4) 8% Vitality Resistance, 18% Aether Resistance\n5) +50% Lightning Damage, +50% Aether Damage, +2% Offensive Ability\n6) Ability - Arcane Bomb (25% Chance on Attack)\n<2 Second Skill Recharge, 1 Meter Radius, 6 Summon Limit, Lives for 24 Seconds>\nBombs apply Arcane Mark: 4 Second Duration, 5 Meter Radius, x Lightning Damage, x Aether Damage, -x Offensive Ability, -x% Lightning Resistance, -x% Aether Resistance"
   },
   {
     "name": "Ulzaad, Herald of Korvaak",
@@ -1136,7 +1136,7 @@
       "eldritch": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/2/2f/Ulzaad_W_BG.png/360px-Ulzaad_W_BG.png?version=cb0c18179973c15c17091e4530fcca52",
-    "description": "+40% Physical Damage\n\n+80 Health\n+10% Chaos Resistance\n\n+80 Health\n10% Aether Resistance\n\n+10 Defensive Ability\n15% Cold Resistance\n15% Poison & Acid Resistance\n\n64-85 Physical Damage\n+50% Physical Damage\n+50% Internal Trauma Damage\n\nUlzaad's Decree (20% Chance on Attack)\n\nx Second Skill Rechargex Second Durationx Physical Damage+ 40% Physical Damage+ 40% Pierce Damage+ 40% Internal Trauma Damage+ 30 Armorx Physical Damage Retaliation"
+    "description": "1) +40% Physical Damage\n2) +10 Defensive Ability, 15% Cold Resistance, 15% Poison & Acid Resistance\n3S) +80 Health, +10% Aether Resistance\n3E) +80 Health, 10% Chaos Resistance\n3W) x Physical Damage, +50% Physical Damage, +50% Internal Trauma Damage\n4W) Ability - Ulzaad's Decree (20% Chance on Attack)\n<22 Second Skill Recharge, 6 Second Duration>\nx Physical Damage, +x% Physical Damage, +x% Pierce Damage, +x% Internal Trauma Damage, +x Armor, x Physical Damage Retaliation"
   },
   {
     "name": "Abomination",
