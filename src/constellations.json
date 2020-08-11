@@ -835,7 +835,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/cb/Hydra_Constellation_Icon.png/360px-Hydra_Constellation_Icon.png?version=efd8940105ed3736248a7e5d667c1ded",
-    "description": "(Requires a Ranged Weapon)\n\n+15 Offensive Ability\n\n4 Elemental Damage\n+40% to All Damage\n\n+40% Pierce Damage\n\n+30 Offensive Ability\n\n8 Pierce Damage\n+4% Offensive Ability\n20% Slow Resistance\n\n5 Elemental Damage\n+35% to All Damage"
+    "description": "Requires a Ranged Weapon\n1) +15 Offensive Ability\n2) x Elemental Damage, +25% to All Damage\n3S) +30 Offensive Ability\n4S) x Physical Damage, +4% Offensive Ability, 20% Slow Resistance\n3W) 4% of Attack Damage Converted to Health\n3N) x Elemental Damage, +50% to All Damage"
   },
   {
     "name": "Hyrian, Guardian of the Celestial Gates",
@@ -849,7 +849,7 @@
       "primordial": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/47/Hyrian_W_BG.png/360px-Hyrian_W_BG.png?version=70ce60262d3df78a377d3531ec03a033",
-    "description": "+40% Elemental Damage\n\n+10% Pierce Resistance\n\n+8% Shield Damage Blocked\n\n+100 Health\n\nHealing Effects Increased by 8%\n\nIncreases Armor by 4%\n\n17 Elemental Damage\n\n+20% Shield Damage Blocked\n\n+50% Elemental Damage\n\nIncreases Armor by 6%\n\n15% Elemental Reistance\n\nHyrian's Glare (30% Chance when Hit)\n\nx Second Skill Recharge\n\nx Meter Range\n\nx% Main Hand Damage\n\nx% of Retaliation Damage added to Attack\n\nx Elemental Damage\n\nx% Chance of Confuse target for x Seconds"
+    "description": "1) +40% Elemental Damage, +40% to All Retaliation Damage\n2) +10% Pierce Resistance, +8% Shield Damage Blocked\n3) +100 Health, Healing Effects Increased by 8%, Increases Armor by 4%\n4E) x Elemental Damage, +20% Shield Damage Blocked, +60% to All Retaliation Damage\n4W) +50% Elemental Damage, Increases Armor by 6%, 15% Elemental Reistance\n5W) Ability - Hyrian's Glare (30% Chance when Hit)\n<2 Second Skill Recharge, 10 Meter Range>\nx% Main Hand Damage, x% of Retaliation Damage added to Attack, x Elemental Damage, x% Chance of Confuse target for x Seconds"
   },
   {
     "name": "Kraken",
@@ -863,7 +863,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/a/aa/Kraken_Constellation_Icon.png/360px-Kraken_Constellation_Icon.png?version=dac0bf8b954c1b5345c158cdb42daf8a",
-    "description": " (Requires a Two-Handed Weapon)\n\n+35% to All Damage\n\n+40% Physical Damage\n+10% Attack Speed\n\n+40% Physical Damage\n+10% Attack Speed\n\n+50% to All Damage\n+5% Movement Speed\n\n+35% to All Damage\n+15% Crit Damage"
+    "description": "Requires a Two-Handed Weapon\n1)+50% to All Damage\n2W) +180 Health, +10% Attack Speed, +4% Casting Speed\n2SW) +180 Health, +10% Attack Speed, +4% Casting Speed\n2SE) +70% to All Damage, +5% Movement Speed\n2E) +15% Crit Damage, 4% Physical Resistance"
   },
   {
     "name": "Magi",
