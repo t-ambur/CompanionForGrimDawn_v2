@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CompanionForGrimDawn_v2/static/css/main.a197e158.chunk.css",
-    "main.js": "/CompanionForGrimDawn_v2/static/js/main.0612ce63.chunk.js",
-    "main.js.map": "/CompanionForGrimDawn_v2/static/js/main.0612ce63.chunk.js.map",
+    "main.js": "/CompanionForGrimDawn_v2/static/js/main.beee84bf.chunk.js",
+    "main.js.map": "/CompanionForGrimDawn_v2/static/js/main.beee84bf.chunk.js.map",
     "runtime-main.js": "/CompanionForGrimDawn_v2/static/js/runtime-main.c9fc97f8.js",
     "runtime-main.js.map": "/CompanionForGrimDawn_v2/static/js/runtime-main.c9fc97f8.js.map",
     "static/js/2.7764a12c.chunk.js": "/CompanionForGrimDawn_v2/static/js/2.7764a12c.chunk.js",
     "static/js/2.7764a12c.chunk.js.map": "/CompanionForGrimDawn_v2/static/js/2.7764a12c.chunk.js.map",
     "index.html": "/CompanionForGrimDawn_v2/index.html",
-    "precache-manifest.73af42c98766f73d3c0d17f8d8c7dbcf.js": "/CompanionForGrimDawn_v2/precache-manifest.73af42c98766f73d3c0d17f8d8c7dbcf.js",
+    "precache-manifest.9f8b692468a77bacd346f87d72611db7.js": "/CompanionForGrimDawn_v2/precache-manifest.9f8b692468a77bacd346f87d72611db7.js",
     "service-worker.js": "/CompanionForGrimDawn_v2/service-worker.js",
     "static/css/main.a197e158.chunk.css.map": "/CompanionForGrimDawn_v2/static/css/main.a197e158.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c9fc97f8.js",
     "static/js/2.7764a12c.chunk.js",
     "static/css/main.a197e158.chunk.css",
-    "static/js/main.0612ce63.chunk.js"
+    "static/js/main.beee84bf.chunk.js"
   ]
 }
