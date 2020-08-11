@@ -220,7 +220,7 @@
       "chaos": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/5/51/Devotion_constellation_mantis.png/360px-Devotion_constellation_mantis.png?version=f3b7c20a4819f0c823ee04ec49f18703",
-    "description": "+15% Pierce Damage\n+20 Armor\n\n+10 Defensive Ability\n10% Elemental Resistance\n\n+80 Health\n+1 Energy Regenerated per second\n\n10 Piercing Damage\n+24% Pierce Damage\n3% Physical Resistance"
+    "description": "1) +15% Pierce Damage, +20 Armor\n2) +10 Defensive Ability, 10% Elemental Resistance\n3) +80 Health, +1.5 Energy Regenerated per second\n4) x Piercing Damage, +24% Pierce Damage, 3% Physical Resistance"
   },
   {
     "name": "Rat",
@@ -233,7 +233,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/b1/Rat_Constellation_Icon.png/360px-Rat_Constellation_Icon.png?version=e610e356beca6ada1a192850ffc2d1c8",
-    "description": "+8 Cunning\n+8 Spirit\n\n60 Poison Damage over 5 seconds\n+24% Poison Damage\n\n+15 Cunning\n+15 Spirit\n10% Poison & Acid Resistance\n\n120 Poison Damage over 5 seconds\n+20% Poison Damage with +30% increased duration"
+    "description": "1) +15 Cunning, +15 Spirit\n2) x Poison Damage over 5 seconds, +24% Poison Damage, x Acid Retaliation\n3) +20 Cunning, +20 Spirit, 10% Poison & Acid Resistance, x Acid Retaliation\n4) x Poison Damage over 5 seconds, +50% Poison Damage with +30% increased duration, +25% to All Retaliation Damage"
   },
   {
     "name": "Viper",
@@ -246,7 +246,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/e/e2/Viper_Constellation_Icon.png?version=dddf1a74f8d56f858db67dc70265ff9b",
-    "description": "+10 Spirit\n\n15% Chance of 36 Energy Leech over 2 Seconds\n+10% Energy absorbed from Enemy Spells\n\n10% Vitality Resistance\n\n20% Reduced target's Elemental Resistances for 3 Seconds\n+3% Offensive Ability"
+    "description": "1) +15 Cunning, +15 Spirit\n2) 15% Chance of 36 Energy Leech over 2 Seconds, +10% Energy absorbed from Enemy Spells\n3) 10% Vitality Resistance\n4) 20% Reduced target's Elemental Resistances for 3 Seconds, +3% Offensive Ability"
   },
   {
     "name": "Vulture",
@@ -258,7 +258,7 @@
       "chaos": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/cd/Vulture_Constellation_Icon.png/360px-Vulture_Constellation_Icon.png?version=589139554c9f8c42c0dd72da0f915021",
-    "description": "+10 Cunning\n\n15% Bleeding Resistance\n\n+5% Cunning\n+10 Offensive Ability\n\n+50% Life Leech Damage\n15% Vitality Resistance\n\n30 Life Leech over 2 Seconds\n30% Life Leech Resistance"
+    "description": "1) +15 Cunning, +15 Spirit\n2) 15% Bleeding Resistance\n3W) +5% Cunning, ++5% Spirit, +10 Offensive Ability\n3E) 15% Vitality Resistance, 8% Chaos Resistance\n3S) +80 Health, +200 Energy, 30% Life Leech Resistance"
   },
   {
     "name": "Wretch",
@@ -271,7 +271,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/6/68/Wretch_Constellation_Icon.png/360px-Wretch_Constellation_Icon.png?version=85270471992a627e62903a0b5332ad68",
-    "description": "+15% Acid Damage\n+15% Chaos Damage\n\n+10 Physique\n12% Bleeding Resistance\n\n+80 Health\n+15 Defensive Ability\n24 Chaos Retaliation\n\n7 Acid Damage\n1-9 Chaos Damage\n+24% Acid Damage\n+24% Chaos Damage\n"
+    "description": "1) +15% Acid Damage, +15% Chaos Damage\n2) +15 Physique, 12% Bleeding Resistance\n3) +80 Health, +15 Defensive Ability, x Acid Retaliation\n4) +24% Acid Damage, +24% Chaos Damage, +6% Damage to Undead"
   },
   {
     "name": "Akeron's Scorpion",
@@ -283,7 +283,7 @@
       "eldritch": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/d/de/Akerons_Scorpion_Constellation_Icon.png?version=f6fa4f86aaffc84b2c006454dc55314d",
-    "description": "+12 Offensive Ability\n\n+24% Poison Damage\n\n+18 Offensive Ability\n\n+15% Acid Damage\n+30% Poison Damage\n\nScorpion's Sting (25% on Attack)\n\n6 Projectilesx% Weapon Damagex Poison DamageReduce Target's Defensive Ability by x"
+    "description": "1) +12 Offensive Ability\n2) +24% Poison Damage, +15 Physique\n3) +18 Offensive Ability\n4W) +15% Acid Damage, +30% Poison Damage\n4E) Ability - Scorpion's Sting (25% on Attack)\n<1.5 Second Skill Recharge, 6 Projectiles, 100% Chance to pass through Enemies, 0.1 Meter Radius>\nx% Main Hand Damage, x Poison Damage over 5 Seconds, x Reduced target's Defensive Ability for 5 Seconds"
   },
   {
     "name": "Bat",
@@ -296,7 +296,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/9/9f/Bat_Constellation_Icon.png/360px-Bat_Constellation_Icon.png?version=8ff65200e2430d82ede755bf001eb13a",
-    "description": "+15% Vitality Damage\n+15% Bleeding Damage\n\n15% Chance of 120 Life Leech over 2 Seconds\n\n+24% Vitality Damage\n+30% Bleeding Damage\n\n+30% Life Leech Damage\n3% of Attack Damage converted to Health\n\nTwin Fangs (20% Chance on Attack)\n\n70% Chance to pass through Enemiesx% Weapon Damagex Pierce Damagex Vitality Damagex% Attack Damage converted to Health"
+    "description": "1) +15% Vitality Damage, +15% Bleeding Damage\n2) +30% Vitality Decay, +10 Offensive Ability\n3) +24% Vitality Damage, +30% Bleeding Damage\n4) x Vitality Damage, 3% of Attack Damage converted to Health\n5) Ability - Twin Fangs (20% Chance on Attack)\n<0.6 Second Skill Recharge, 2 Projectiles, 100% Chance to pass through Enemies>\nx% Main Hand Damage, x Piercing Damage, x Vitality Damage, x% Attack Damage converted to Health"
   },
   {
     "name": "Eye of the Guardian",
@@ -309,7 +309,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/d/de/Eye_of_the_Guardian_Constellation_Icon.png?version=855b8233156a3eea3e4dec72df30995e",
-    "description": "+15% Acid Damage\n+15% Poison Damage\n\n+15% Chaos Damage\n\n+15% Chaos Damage\n+15% Poison Damage\n\n+30% Poison Damage\n8% Vitality Resistance\n\nGuardian's Gaze (15% on Attack)\n\nx% Weapon Damagex Chaos Damagex Poison Damage"
+    "description": "1) +15% Acid Damage, +15% Poison Damage\n2) +12 Offensive Ability, +12 Defensive Ability\n3) +20% Chaos Damage, +15% Poison Damage\n4) +30% Poison Damage, 8% Vitality Resistance\n5) Ability - Guardian's Gaze (15% Chance on Attack)\n<0.5 Second Skill Recharge, 100% Chance to pass through Enemies, 0.3 Meter Radius>\nx% Main Hand Damage, x Acid Damage, x Chaos Damage, x Poison Damage over 2 Seconds, 5% of Attack Damage converted to Health"
   },
   {
     "name": "Fox",
@@ -321,7 +321,7 @@
       "eldritch": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/f/fe/Fox_Constellation_Icon.png?version=2954960f2334150504bae1a2d1c14c64",
-    "description": "+10 Cunning\n\n16 Bleeding Damage over 3 Seconds\n+24% Bleeding Damage\n\n+15 Cunning\n8% Bleeding Resistance\n\n24 Bleeding Damage over 3 Seconds\n+45% Bleeding Damage\n"
+    "description": "1) +15 Cunning, +15 Spirit\n2) x Bleeding Damage over 3 Seconds, +24% Bleeding Damage\n3) +25 Cunning, 8% Bleeding Resistance\n4) x Bleeding Damage over 3 Seconds, +50% Bleeding Damage, 2% of Attack Damage converted to Health"
   },
   {
     "name": "Hawk",
@@ -333,7 +333,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/5/54/Hawk_Constellation_Icon.png/360px-Hawk_Constellation_Icon.png?version=f6bb81f284348cab71ef4c55090f566a",
-    "description": "+15 Offensive Ability\n\n+8% Crit Damage\n\n+3% Offensive Ability\n-10% Cunning Requirement for Ranged Weapons"
+    "description": "1) +15 Offensive Ability\n2) +8% Crit Damage [Bonus to All Pets: +4% Crit Damage]\n3) +3% Offensive Ability, -10% Cunning Requirement for Ranged Weapons [Bonus to All Pets: +2% Offensive Ability]"
   },
   {
     "name": "Quill",
@@ -346,7 +346,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/e2/Quill_Constellation_Icon.png/360px-Quill_Constellation_Icon.png?version=9d345ffae5c97bdae4ac6b7998dedbad",
-    "description": "+15% Elemental Damage\n\n8% Aether Resistance\n\n+60 Health\n+3% Energy\n\n6 Elemental Damage\n+24% Elemental Damage\n+2% Defensive Ability"
+    "description": "1) +15% Elemental Damage\n2) 8% Aether Resistance\n3) +60 Health, +150 Energy\n4) +24% Elemental Damage, +5% Energy, +2% Defensive Ability"
   },
   {
     "name": "Raven",
@@ -358,7 +358,7 @@
       "eldritch": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/2/26/Raven_Constellation_Icon.png?version=e2c2b2ade2f14462a3324ac259b9e097",
-    "description": "+8 Spirit\nBonus to All Pets: +15% to All Damage\n\n+10 Spirit\n+1 Energy Regenerated per Second\n\n+15 Offensive Ability\nBonus to All Pets: +5% Offensive Ability\n\n+10% to All Damage\nBonus to All Pets: +60% Lightning Damage"
+    "description": "1) +15 Spirit [Bonus to All Pets: +15% to All Damage]\n2) +10 Offensive Ability, +1 Energy Regenerated per Second\n3S) +15 Offensive Ability [Bonus to All Pets: x Lightning Damage, +60% Lightning Damage]\n3W) +3% Offensive Ability [Bonus to All Pets: +5% Offensive Ability]"
   },
   {
     "name": "Scholar's Light",
@@ -370,7 +370,7 @@
       "eldritch": 4
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/4f/Scholars_Light_Constellation_Icon.png/360px-Scholars_Light_Constellation_Icon.png?version=a736bca3820cee5de333feb090508956",
-    "description": "+15% Fire Damage\n\n+8 Defensive Ability\n+10 Physique\n8% Elemental Resistance\n\n6 Elemental Damage\n+24% Elemental Damage\n+1.5 Energy Regenerated per Second"
+    "description": "1) +15% Elemental Damage\n2) +15 Physique, +15 Defensive Ability, 8% Elemental Resistance\n3) +24% Elemental Damage, +3 Energy Regenerated per Second, 8% Aether Resistance"
   },
   {
     "name": "Spider",
@@ -382,7 +382,7 @@
       "eldritch": 6
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/3/34/Spider_Constellation_Icon.png?version=fe25bd9f0a12a8532679b3333cf2aac3",
-    "description": "+10 Cunning\n+10 Spirit\n\n+10 Offensive Ability\n8% Chaos Resistance\n\n12% less Damage from Insectoids & Arachnids\n+15 Offensive Ability\n+15 Defensive Ability\n\n+3% Cunning\n+3% Spirit\n\n+5% Casting Speed\n20% reduced Attack Speed Retaliation for 3 Seconds\n20% Slowed Movement Retaliation for 3 seconds"
+    "description": "1) +15 Cunning, +15 Spirit\n2W) +3% Spirit, +20 Offensive Ability\n 2SW) +20 Offensive Ability, +5% Casting Speed\n2SE) +20 Defensive Ability, +5% Attack Speed\n2E) +3% Cunning, +20 Defensive Ability"
   },
   {
     "name": "Assassin's Blade",
@@ -395,7 +395,7 @@
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/45/Assassins_Blade_Constellation_Icon.png/360px-Assassins_Blade_Constellation_Icon.png?version=27f1fa2eff473ca88a0e5085e947c85d",
-    "description": "+15% Pierce Damage\n\n+12 Offensive Ability\n+8 Defensive Ability\n\n+15% Pierce Damage\n+15% Bleeding Damage\n\n+30% Bleeding Damage\n\nAssassin's Mark (100% Chance on Critical Attack)\n\nReduce Target's Physical & Pierce Resistances by x%\n"
+    "description": "1) +15% Physical Damage, +15% Pierce Damage\n2W) +12 Defensive Ability\n2S) +15% Physical Damage, +15% Pierce Damage\n3S) +18 Offensive Ability\n4S) Ability - Assassin's Mark (100% Chance on Critical Attack)\n<3 Second Duration>\n-x% Physical Resistance, -x% Pierce Resistance"
   },
   {
     "name": "Crane",
