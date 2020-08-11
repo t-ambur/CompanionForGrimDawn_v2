@@ -19,9 +19,9 @@ class Changes extends React.Component
             <div>
                 <h1> Change Log </h1>
 
-                <h3> 08/09/2020 - v0.2.0 </h3>
+                <h3> 08/10/2020 - v0.2.0 </h3>
                 <ul>
-                    <li> Devotions up to date with Grim Dawn version </li>
+                    <li> WIP - Tier 1 Devotions up to date with Grim Dawn version v1.1.7.2</li>
                     <li> Forked and rehosted from https://github.com/andrewsnyder328/CompanionForGrimDawn to https://github.com/t-ambur/CompanionForGrimDawn_v2 </li>
                     <li> Added simple navigation bar/buttons at top of screen (Devotions, Masteries, Links, Change Log) </li>
                     <li> Added some important links</li>

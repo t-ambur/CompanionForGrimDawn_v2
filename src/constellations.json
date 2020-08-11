@@ -470,7 +470,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/be/Stag_Constellation_Icon.png/360px-Stag_Constellation_Icon.png?version=446c73404935fbc07a16e7dfc200a8a9",
-    "description": "+15% Physical Damage\n+15% Bleeding Damage\n\n+10 Physique\n10% Pierce Resistance\n\n+80 Health\n+15 Defensive Ability\n+25% to All Retaliation Damage\n\n5 Physical Damage\n15 Bleeding Damage over 3 Seconds\n+24% Physical Damage\n+24% Bleeding Damage"
+    "description": "1) +15% Physical Damage, +15% Bleeding Damage\n2) +15 Physique, +5% Movement Speed, 10% Pierce Resistance\n3) +80 Health, +15 Defensive Ability, +30% to All Retaliation Damage\n4) +24% Physical Damage, +24% Bleeding Damage, 3% Physical Resistance"
   },
   {
     "name": "Tortoise",
@@ -483,7 +483,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/ed/Tortoise_Constellation_Icon.png/360px-Tortoise_Constellation_Icon.png?version=70985e42d6f6f6cbfaf7120a274667dd",
-    "description": "+25 Health\n+10 Defensive Ability\n\n+12 Defensive Ability\n-10% Physique Requirement for Shields\n\n+100 Health\n+15 Defensive Ability\n\n+4% Health\n+15 Defensive Ability\nIncreases Armor by 4%\n\nTurtle Shell (100% Chance at 40% health)\n\nx Second Skill Rechargex Damage Absorption"
+    "description": "1) +25 Health, +12 Defensive Ability\n2) +15 Defensive Ability, -10% Physique Requirement for Shields\n3) +100 Health, +15 Defensive Ability\n4S) +4% Health, +10 Defensive Ability, Increases Armor by 4%\n4e) Ability - Turtle Shell (100% Chance at 40% health)\n<46 Second Skill Recharge>\nx Damage Absorption"
   },
   {
     "name": "Bull",
@@ -496,7 +496,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/9/9b/Bull_Constellation_Icon.png/360px-Bull_Constellation_Icon.png?version=8e6ab9d8a894faa82a5ec332885dc610",
-    "description": "+10 Physique\n\n+24% Internal Trauma Damage with +20% Increased Duration\n\n8% Chance of Stun target for 0.7 Seconds\n+10% Stun Duration\n+10 Physique\n\n60 Internal Trauma over 5 Seconds\n-10% Physique Requirement for Armor\n\nBull Rush (25% Chance on Attack)\n\n(requires Melee Weapon)x% Weapon Damagex-y Physical Damagex Internal Trauma Damage over 2 seconds"
+    "description": "1) +15 Physique\n2) +24% Internal Trauma Damage with +20% Increased Duration, +3% Movement Speed\n3) +15 Physique, +30 Armor\n4S) x Internal Trauma over 5 Seconds, +30% Internal Trauma Damage, -10% Physique Requirement for Armor\n4E) Ability - Bull Rush (25% Chance on Attack)\n<0.5 Second Skill Recharge, 3.5 Meter Radius>\nx% Main Hand Damage, x Physical Damage, x Internal Trauma Damage over 2 seconds"
   },
   {
     "name": "Eel",
@@ -508,7 +508,7 @@
       "primordial": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/ba/Eel_Constellation_Icon.png/360px-Eel_Constellation_Icon.png?version=6be1c5a200573596d8cc91e45b2a377f",
-    "description": "+12 Defensive Ability\n+2% Chance to Avoid Melee Attacks\n\n+15 Defensive Ability\n+2% Chance to Avoid Projectiles\n\n+20 Defensive Ability\n+6% Movement Speed\n10% Pierce Resistance"
+    "description": "1) +12 Defensive Ability, +2% Chance to Avoid Melee Attacks\n2) +15 Defensive Ability, +2% Chance to Avoid Projectiles\n3) +20 Defensive Ability, +6% Movement Speed, 10% Pierce Resistance"
   },
   {
     "name": "Gallows",
@@ -520,7 +520,7 @@
       "primordial": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/f/fb/Gallows_Constellation_Icon.png/360px-Gallows_Constellation_Icon.png?version=673bf64b3dc48abef6a34b23c771a1ac",
-    "description": "+15% Vitality Damage\n\n+50 Health\n15% Chance of 100 Life Leech Retaliation over 2 Seconds\n\n+70 Health\n10% Vitality Resistance\n\n12 Vitality Damage\n+24% Vitality Damage\n+24% Chaos Damage\n"
+    "description": "1) +15% Vitality Damage\n2) +80 Health, 10% Bleeding Resistance\n3) +80 Health, 10% Vitality Resistance\n4) +24% Vitality Damage, +24% Chaos Damage, +6% Damage to Humans, +3% Health"
   },
   {
     "name": "Hound",
@@ -532,7 +532,7 @@
       "primordial": 4
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/6/6d/Hound_Constellation_Icon.png/360px-Hound_Constellation_Icon.png?version=6acdfb524409200afcd7ab889510eeb1",
-    "description": "+10 Physique\nBonus to All Pets: +4% Health\n\nIncreases Armor by 2%\n36 Piercing Retaliation\n+20% to All Retaliation Damage\n\n+15 Physique\nIncreases Armor by 3%\n+30% to All Retaliation Damage\nBonus to All Pets: +30% to All Retaliation Damage"
+    "description": "1) +15 Physique [Bonus to All Pets: +4% Health]\n2) Increases Armor by 2%, +30% to All Retaliation Damage\n3) +20 Physique, Increases Armor by 5%, +40% to All Retaliation Damage [Bonus to All Pets: +8% Health]"
   },
   {
     "name": "Imp",
@@ -545,7 +545,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/c/cb/Imp_Constellation_Icon.png?version=a030c55a5f24e15a497d96f1b47b46a5",
-    "description": "+15% Fire Damage\n+15% Aether Damage\n\n+10 Spirit \n+10 Defensive Ability\n\n8% Aether Resistance\n\n+24% Fire Damage\n+24% Aether Damage\n\nAetherfire (15% Chance on Attack)\n\nAoEx Fire Damagex Aether Damagex% Chance of Confuse target for 2 Seconds"
+    "description": "1) +15% Fire Damage, +15% Aether Damage\n2) +15 Spirit, +10 Defensive Ability\n3) +15 Physique, 8% Aether Resistance\n4) +24% Fire Damage, +24% Aether Damage\n5) Ability - Aetherfire (15% Chance on Attack)\n<3 Second Duration, 2.5 Meter Radius>\nx Fire Damage, x Aether Damage, x% Chance of Confuse target for 2 Seconds"
   },
   {
     "name": "Lizard",
@@ -557,7 +557,7 @@
       "primordial": 4
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/c/c0/Lizard_Constellation_Icon.png?version=a88a4f18efce6f612d00b0df10c2cb41",
-    "description": "+6 Health Regenerated per second\n+15% Constitution\n\n+40 Health\n+10 Health Regenerated per second\n\n+40 Health\nIncreases Health Regeneration by 15%\n+15% Constitution\n"
+    "description": "1) +6 Health Regenerated per second, +15% Constitution\n2) +50 Health, +10 Health Regenerated per second, +3% Movement Speed\n3) +50 Health, Increases Health Regeneration by 25%, Healing Effects Increased by 3%"
   },
   {
     "name": "Sailor's Guide",
@@ -569,7 +569,7 @@
       "primordial": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/d/d1/Sailors_Guide_Constellation_Icon.png?version=0a7588d4fc51a904f6633a75f2c73f74",
-    "description": "+15 Physique\n+8 Defensive Ability\n\n18% Reduced Freeze Duration\n18% Slow Resistance\n\n+15 Physique\n+8% Movement Speed\n\n3% Physical Resistance\n15% Cold Resistance\n15% Lightning Resistance"
+    "description": "1) +15 Physique, +8 Defensive Ability\n2) 18% Reduced Freeze Duration, 18% Slow Resistance\n3E) +15 Physique, +8% Movement Speed\n3S) 3% Physical Resistance, 15% Cold Resistance, 15% Lightning Resistance"
   },
   {
     "name": "Scarab",
@@ -582,7 +582,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/6/61/Scarab_w_BG.png/360px-Scarab_w_BG.png?version=53ba033ff818fcd1c4373b3ab6e51564",
-    "description": "+15 Physique\n\n+20 Armor\n\n+8% Shield Damage Blocked\n\nIncreases Armor by 4%\n\n15% Bleeding Resistance\n\n15% Reduced Stun Duration\n\n+12% Shield Damage Blocked\n\n30 Acid Retaliation"
+    "description": "1) +15 Physique, +20 Armor\n2) +8% Shield Damage Blocked\n3E) Increases Armor by 4%, 15% Bleeding Resistance\n3S) 15% Reduced Stun Duration, +12% Shield Damage Blocked, x Acid Retaliation"
   },
   {
     "name": "Tsunami",
@@ -594,7 +594,7 @@
       "primordial": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/4/44/Tsunami_Constellation_Icon.png?version=2b8ecadc28a40430e2191cefa35065bf",
-    "description": "+15% Cold Damage\n+15% Lightning Damage\n\n+10 Spirit\n\n+40% Frostburn Damage\n+40% Electrocute Damage\n+10 Physique\n\n+24% Cold Damage\n+24% Lightning Damage\n\nTsunami (35% Chance on Attack)\n\nx Rangex% Weapon Damagex Cold Damagex Lightning Damagex Frostburn Damage over 2 seconds"
+    "description": "1) +15% Cold Damage, +15% Lightning Damage\n2) +15 Spirit, 10 Defensive Ability\n3) +40% Frostburn Damage, +40% Electrocute Damage, +15 Physique\n4) +24% Cold Damage, +24% Lightning Damage\n5) Ability - Tsunami (35% Chance on Attack)\n<1 Second Skill Recharge, 12 Meter Range>\nx% Main Hand Damage, x Cold Damage, x Lightning Damage, x Frostburn Damage over 2 seconds"
   },
   {
     "name": "Wraith",
@@ -607,7 +607,7 @@
       "ascendant": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/3/30/Wraith_Constellation_Icon.png?version=b296cfadbaf0b971f8d368f0fbdc1f27",
-    "description": "+15% Lightning Damage\n+15% Aether Damage\n\n+18 Offensive Ability\n+15% Energy Absorbed from Enemy Spells\n\n+10 Spirit\n8% Aether Resistance\n\n1-7 Lightning Damage\n4 Aether Damage\n+24% Lightning Damage\n+24% Aether Damage"
+    "description": "1) +15% Lightning Damage, +15% Aether Damage\n2W) +24 Offensive Ability, +15% Energy Absorbed from Enemy Spells, x Lightning Retaliation\n2N) +15 Spirit, 8% Aether Resistance, +20% Retaliation Damage\n3E) +24% Lightning Damage, +24% Aether Damage, +6% Damage to Undead"
   },
   {
     "name": "Affliction",
