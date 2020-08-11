@@ -622,7 +622,7 @@
       "eldritch": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/a/a7/Affliction_Constellation_Icon.png/360px-Affliction_Constellation_Icon.png?version=5025ca4a9331f2acf79f7a3a2718bc5c",
-    "description": "+40% Vitality Damage\n+40% Poison Damage\n\n18 Vitality Decay over 3 seconds\n+15 Spirit\n300 Vitality Decay Retaliation over 3 seconds\n\n+18 Offensive Ability\n+18 Defensive Ability\n\n+10% Crit Damage\n360 Vitality Decay Retaliation over 3 Seconds\n\n17-32 Vitality Damage\n10% Poison & Acid Resistance\n\n+50% Acid Damage\n+20% Vitality Damage\n+3% Offensive Ability\n\nFetid Pool (33% Chance when Hit)\n\nAoEx Vitality Damagex Poison Damagex% Slow"
+    "description": "1) +40% Vitality Damage, +40% Poison Damage\n2) +20 Spirit, +20 Offensive Ability, x Acid Retaliation\n\n3) Ability - Fetid Pool (33% Chance when Hit)\n<2 Second Skill Recharge, 6 Second Duration, 3 Meter Radius>\n3% of Retaliation Damage added to Attack, x Vitality Damage, x Poison Damage over 2 Seconds, x% Slow target for 2 Seconds\n4W) x Vitality Damage, +3% Offensive Ability, +20% to Retaliation Damage\n5W) x Vitality Damage, +10% Crit Damage, x Acid Retaliation\n4E) +50% Acid Damage, +50% Vitality Damage, x Acid Retaliation\n5E) +50% Vitality Decay with +50% Increased Duration, +50% to all Retaliation Damage"
   },
   {
     "name": "Alladrah's Phoenix",
@@ -637,7 +637,7 @@
       "eldritch": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/2/22/Alladrah%27s_Phoenix_Constellation_Icon.png/360px-Alladrah%27s_Phoenix_Constellation_Icon.png?version=60c347139a43e6f1d276bc0f383f23d0",
-    "description": "+40% Aether Damage\n+40% Elemental Damage\n\n+150 Health\n12% Chaos Resistance\n100 Fire Retaliation\n\n+30% Aether Damage\n+30% Elemental Damage\nIncreases Health Regeneration by 20%\n\n+5% Crit Damage\n+50% Fire Damage\n+100% Burn Damage\n\nPhoenix Fire (100% Chance on Critical Attack)\n\nx Damage Absorptionx Fire Damagex Aether Damagex Burn Damage over 2 Seconds"
+    "description": "1) +40% Aether Damage, +40% Elemental Damage\n2) +150 Health, 12% Chaos Resistance, x Fire Retaliation\n3) +30% Aether Damage, +30% Elemental Damage, Increases Health Regeneration by 20%\n4) +10% Crit Damage, +50% Fire Damage, +100% Burn Damage, +60% to All Retaliation Damage\n5) Ability - Phoenix Fire (100% Chance on Critical Attack)\n<12 Second Skill Recharge, 5 Second Duration, 5 Meter Radius>\nx Damage Absorption, x Fire Damage, x Aether Damage, x Burn Damage over 2 Seconds, x Burn Retaliation over 2 Seconds, +20% to All Retaliation Damage"
   },
   {
     "name": "Amatok the Spirit of Winter",
@@ -651,7 +651,7 @@
       "primordial": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/e5/Amatok_the_Spirit_of_Winter_Constellation_Icon.png/360px-Amatok_the_Spirit_of_Winter_Constellation_Icon.png?version=965e3f410a7263fb1dd9bb9a16f50c63",
-    "description": "+40% Cold Damage\n\n+4% Health\n+15 Defensive Ability\n\n+30 Offensive Ability\n25% Cold Resistance\n\n+50% Cold Damage\n+50% Frostburn Damage\n+100 Health\n\n36 Frostburn Damage over 3 Seconds\n+30% Cold Damage\n+100% Frostburn Damage\n\n+50% Frostburn Damage with +30% Increased Duration\n+25 Offensive Ability\n\nBlizzard (100% Chance on Critical Attack\n\nx% Weapon Damagex Cold Damagex Frostburn Damage over 2 Secondsx% Chance to Freeze for 1 Secondsx% Slower target Movement for 3 Seconds"
+    "description": "1) +40% Cold Damage\n2) +4% Health, +15 Defensive Ability\n3W) +50% Cold Damage, +50% Frostburn Damage, +100 Health\n4W) x Frostburn Damage over 3 Seconds, +50% Cold Damage, +100% Frostburn Damage\n3N) +30 Defensive Ability, 25% Cold Resistance\n3E) +50% Frostburn Damage with +50% Increased Duration, +25 Offensive Ability\n4E) Ability - Blizzard (100% Chance on Critical Attack)\n<3.2 Second Skill Recharge, 6.5 Meter Target Area, 2 Meter Radius>\nx% Main Hand Damage, x Cold Damage, x Frostburn Damage over 2 Seconds, x% Chance to Freeze target for 1 Second, x% Slower target Movement for 3 Seconds"
   },
   {
     "name": "Assassin",
@@ -665,7 +665,7 @@
       "order": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/6/6d/Assassin_Constellation_Icon.png?version=706b36bd7c25e9f4695f67e7e7f9eac9",
-    "description": "+30% Pierce Damage\n\n+15 Cunning\n+60 Health\n\n+18 Offensive Ability\n+10 Defensive Ability\n\n+5% Cunning\n+10% Bleeding Resistance\n\n+15% Damage to Humans\n+25 Defensive Ability\n10% Poison & Acid Resistance\n\n8 Piercing Damage\n+40% Pierce Damage\n\nBlades of Wrath (100% Chance on Critical Attack)\n\nx Projectiles100% Chance to pass through Enemies % Weapon Damagex Piercing Damage"
+    "description": "1) +40% Pierce Damage\n2) +20 Cunning, +60 Health\n3E) +18 Offensive Ability, +10 Defensive Ability\n3N) +5% Cunning, +10% Bleeding Resistance\n4N-W) +8% Damage to Humans, +25 Defensive Ability, 10% Poison & Acid Resistance\n4N-E) x Piercing Damage, +50% Pierce Damage\n5N-E) Ability - Blades of Wrath (100% Chance on Critical Attack)\n<2 Second Skill Recharge, 10 Projectiles, 100% Chance to pass through Enemies>\n% Main Hand Damage, x Piercing Damage"
   },
   {
     "name": "Autumn Boar",
@@ -679,7 +679,7 @@
       "ascendant": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/6/66/Autumn_Boar_Constellation_Icon.png/360px-Autumn_Boar_Constellation_Icon.png?version=9aa0192a99a8b3b496e0d26e71384669",
-    "description": "+10 Physique\n10 Cunning\n\n+10 Physique\n15% Pierce Resistance\n\n+5% Physique\n\n4% Physical Resistance\n20% Fire Resistance\n\n+10% Stun Duration\n150 Physical Damage Retaliation\n\n10% Chance of 2100 Bleeding Retaliation over 3 Seconds\n\nTrample (25% Chance on Block)\n\nAoE100% Chance to pass through Enemies % Weapon Damagex Internal Trauma Damage % Chance of Knockdown target for x seconds"
+    "description": "1) +20 Physique, +20 Cunning, +20% to All Retaliation Damage\n2) +15 Physique, 15% Pierce Resistance\n3) +5% Physique, +20% to All Retaliation Damage\n4S) +25 Defensive Ability, 4% Physical Resistance\n4W) +30 Defensive Ability, +20% to All Retaliation Damage\n5W) 10% Reflected Damage Reduction, x Physical Damage Retaliation\n5W-S) Ability - Trample (33% Chance on Block)\n<0.3 Second Skill Recharge, 100% Chance to pass through Enemies, 0.1 Meter Radius>\n% Main Hand Damage, x% of Retaliation Damage added to Attack, x Internal Trauma Damage, x% Chance of Knockdown target for x seconds"
   },
   {
     "name": "Bard's Harp",
@@ -694,7 +694,7 @@
       "primordial": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/c6/Bard%27s_Harp_Constellation_Icon.png/360px-Bard%27s_Harp_Constellation_Icon.png?version=a0dfaaabd04e295e8c50c6556fa8169a",
-    "description": "+200 Health\n+20% Constitution\n\n+30% Pierce Damage\n+40% Elemental Damage\nIncreases Energy Regeneration by 10%\n\n15% Pierce Resistance\n10% Bleeding Resistance\n\n+10% Energy\n+2 Energy Regenerated per Second\n\n+40% Pierce Damage\n+50% Elemental Damage\n15% Elemental Resistance\n\nInspiration (15% Chance when Hit)\n\nx% Energy Restored+x Offensive Ability+x Defensive Ability+x Energy Restored per Secondx% Reduced Entrapment Durationx% Slow Resistance"
+    "description": "1) +200 Health, +20% Constitution\n2) +40% Pierce Damage, +40% Elemental Damage, Increases Energy Regeneration by 10%\n3) 15% Pierce Resistance, 10% Bleeding Resistance\n4) +10% Energy, +2 Energy Regenerated per Second\n5) +50% Pierce Damage, +50% Elemental Damage, 15% Elemental Resistance\n6) Ability - Inspiration (15% Chance when Hit)\n<12 Second Skill Recharge, 6 Second Duration, 15 Meter Radius>\nx% Energy Restored, +x Offensive Ability, +x Defensive Ability, +x Energy Restored per Second, x% Reduced Entrapment Duration, x% Slow Resistance"
   },
   {
     "name": "Behemoth",
@@ -709,7 +709,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/e7/Behemoth_Constellation_Icon.png/360px-Behemoth_Constellation_Icon.png?version=34ab0e09bedb6f44cb20439d6d7dedd7",
-    "description": "+10 Health Regenerated per second\n\n+300 Health\nBonus to all Pets: +5% Health\n\n+15 Health Regenerated per second\n+25% Constitution\n\n+4% Health\n\nIncreases Health Regeneration by 10%\nBonus to all Pets: Increase Health Regeneration by 20%\n\nGiant's Blood (15% Chance when Hit)\n\n % + x Health Restored+x Health Regenerated per Second"
+    "description": "1) +15 Health Regenerated per second\n2) +300 Health [Bonus to all Pets: +5% Health]\n3E) +30 Health Regenerated per second, Healing Effects Increased by 4%\n3SE) +5% Health, +80 Armor\n3SW) Increases Health Regeneration by 50% [Bonus to all Pets: Increase Health Regeneration by 100%]\n3W) Ability - Giant's Blood (15% Chance when Hit)\n<25 Second Skill Recharge, 5 Second Duration>\n x% + x Health Restored, +x Health Regenerated per Second"
   },
   {
     "name": "Berserker",
@@ -723,7 +723,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/8/8b/Berserker_Constellation_Icon.png/360px-Berserker_Constellation_Icon.png?version=08bd09922cb83a0902007a21d76441b6",
-    "description": "+80 Health\n+20 Offensive Ability\n\n+50% Physical Damage\n\n+80 Health\n+35 Offensive Ability\n\n+50% Physical Damage\n+80% Bleeding Damage\n\n45 Bleeding damage over 3 Seconds\n+5% Crit Damage\n15% Chance of +50% Bleeding Damage with +50% Increased Duration\n\n10% Pierce Resistance\n20% Reduction in Bleeding Duration"
+    "description": "Requires an axe.\n1) +80 Health, +20 Offensive Ability\n2S) 3% Physical Resistance, 15% Pierce Resistance, 2W) +50% Physical Damage\n 3W) +120 Health, +35 Offensive Ability\n2E) +50% Physical Damage, +80% Bleeding Damage\n 3E) x Bleeding Damage over 3 Seconds, +5% Crit Damage, +50% Bleeding Damage with +50% Increased Duration"
   },
   {
     "name": "Blades of Nadaan",
@@ -736,7 +736,7 @@
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/b/ba/Blades_of_Nadaan_Constellation_Icon.png?version=561e57766f86ac14368c02a0ec3d76c0",
-    "description": "(Requires a Sword)\n\n2% Chance to Avoid Melee Attacks\n2% Chance to Avoid Projectiles\n\n+40% Pierce Damage\n\n+8 Defensive Ability\n+50% Pierce Damage\n\n+8 Defensive Ability\n+4% Attack Speed\n\n+5% Attack Speed\n\nIncreases Armor Piercing by 100%"
+    "description": "Requires a sword.\n1) 2% Chance to Avoid Melee Attacks, 2% Chance to Avoid Projectiles\n2) +40% Pierce Damage\n3NE) +8 Defensive Ability, +4% Attack Speed\n3NW) +50% Pierce Damage\n3SW) +8 Defensive Ability, +4% Attack Speed\n3SE) Increases Armor Piercing by 100%, x Piercing Damage"
   },
   {
     "name": "Bysmiel's Bonds",
@@ -749,7 +749,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/3a/Bysmiels_Bonds_Constellation_Icon.png/360px-Bysmiels_Bonds_Constellation_Icon.png?version=bfaa20151907797760c0828d91043fe4",
-    "description": "+15 Offensive Ability\nBonus to All Pets: 30% to All Damage\n\n+5% Casting Speed\nBonus to All Pets: 8% Total Speed\n\n15% Vitality Resistance\nBonus to All Pets: 20% Vitality Resistance\n\n+30% to All Damage\nBonus to All Pets: +40% to All Damage, +8% Health\n\nBysmiel's Command (20% Chance on Attack)\n\nSummon Scales with Pet AttributesLives for x SecondsPhysical DamageAcid Damage"
+    "description": "1) +15 Offensive Ability [Bonus to All Pets: 30% to All Damage]\n2) +15 Physique, +5% Casting Speed [Bonus to All Pets: +8% Total Speed]\n3) 15% Vitality Resistance [Bonus to All Pets: 20% Vitality Resistance]\n4) +30% to All Damage [Bonus to All Pets: +40% to All Damage, +10% Health]\n5) Ability - Bysmiel's Command (20% Chance on Attack)\n<60 Second Skill Recharge, Lives for 20 Seconds>\nSummons an eldritch hound, Scales with Pet Attributes, Physical Damage, Acid Damage, Reduces Offensive Ability and Resistances of targets for 6 seconds"
   },
   {
     "name": "Chariot of the Dead",
@@ -763,7 +763,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/eb/Chariot_of_the_Dead_Constellation_Icon.png/360px-Chariot_of_the_Dead_Constellation_Icon.png?version=9c0ea5e3d4b67c083b4f9ecd20916a16",
-    "description": "+15 Cunning\n\n+15 Offensive Ability\n\n16% Vitality Resistance\n\n+100 Health \n+20 Cunning\n\n+25 Offensive Ability\n\n+10 Offensive Ability\n+4% Offensive Ability\n\nWayward Soul (20% when Hit)\n\n % + x Health Restored+x Defensive Ability"
+    "description": "1) +20 Physique, +20 Cunning\n2) +15 Offensive Ability, 10% Slow Resistance\n3) +25 Cunning, +100 Health\n4E) 16% Vitality Resistance, 15% Reduced Stun Duration\n4W) +25 Offensive Ability, 15% Slow Resist\n5W) +15 Offensive Ability, +4% Offensive Ability\n6W) Ability - Wayward Soul (20% when Hit)\n<33 Second Skill Recharge, 7 Second Duration>\n x% + y Health Restored, +x Defensive Ability, +x Armor"
   },
   {
     "name": "Crab",
@@ -776,7 +776,7 @@
       "ascendant": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/7/75/Crab_Constellation_Icon.png/360px-Crab_Constellation_Icon.png?version=ecec9b7a7f057336c2680f0fc76ff12f",
-    "description": "+20 Physique\n+15% Constitution\n\n+40% Physical Damage\n+40% Elemental Damage\n+40% Internal Trauma Damage\n\n+35 Defensive Ability\n18% Pierce Resistance\n\n15 Elemental Damage\n+40% Elemental Damage\n15% Elemental Resistance\n\nArcane Barrier (15% Chance when Hit)\n\nx Elemental/Aether/Chaos Damage Absorption"
+    "description": "1) +25 Physique, +15% Constitution\n2) +40% Physical Damage, +40% Elemental Damage, +40% Internal Trauma Damage\n3) Ability - Arcane Barrier (15% Chance when Hit)\n<3 Second Skill Recharge>\nx Elemental/Aether/Chaos Damage Absorption\n4) +55 Defensive Ability, 18% Pierce Resistance\n5) x Elemental Damage, +40% Elemental Damage, 15% Elemental Resistance"
   },
   {
     "name": "Dire Bear",
@@ -790,7 +790,7 @@
       "primordial": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/4/41/Dire_Bear_Constellation_Icon.png/360px-Dire_Bear_Constellation_Icon.png?version=2b24c64604a64fd77ca74858c536623e",
-    "description": "+40% Physical Damage\n\n+10 Physique\n+10 Cunning\n\n+15% Constitution\n+40 Armor\n\n+5% Health\n15% Reduced Stun Duration\n15% Reduced Freeze Duration\n\n+50% Physical Damage\n+50% Internal Trauma Damage\n\nMaul (15% Chance on Attack)\n\nRequires a Melee WeaponAoEx% Weapon Damagex Physical Damagex% Chance of Stun for 1.5 Seconds"
+    "description": "1) +40% Physical Damage\n2) +20 Physique, +20 Cunning, +15 Defensive Ability\n3) +50% Physical Damage, +60 Armor\n4) +5% Health, 15% Reduced Stun Duration, 15% Reduced Freeze Duration\n5S) +2% Defensive Ability, +80 Armor\n5W) Ability - Maul (15% Chance on Attack)\n<1 Second Skill Recharge, 4 Meter Radius>\nx% Main Hand Damage, x Physical Damage, x% Chance of Stun for 1.5 Seconds"
   },
   {
     "name": "Harvestman's Scythe",
@@ -805,7 +805,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/b1/Harvestmans_Scythe_Constellation_Icon.png/360px-Harvestmans_Scythe_Constellation_Icon.png?version=d20ad80c1e9ff3a8ff2dfeeb39851326",
-    "description": "+150 Energy\n+2 Energy Regenerated per Second\n\n+150 Health\n+12 Health Regenerated per Second\n\n+4% Physique\n+20% Constitution\n\n+4% Health\nIncreases Health Regeneration by 20%\n\n+4% Energy\nIncreases Energy Regeneration by 20%\n\n+4% Cunning\n+4% Spirit\n+2% Defensive Ability\n+4% Movement Speed"
+    "description": "1) +2 Energy Regenerated per Second, +3% Movement Speed\n2) +200 Health, +200 Energy, +3% Movement Speed\n3) +4% Physique, Healing Effects Increased by 6%\n4) +4% Cunning, +4% Spirit\n5) +3% Defensive Ability, Increases Health Regeneration by 30%, Increases Energy Regeneration by 30%\n6) +5% Health, +5% Energy, +60 Health Regenerated per second, +3 Energy Regenerated per second"
   },
   {
     "name": "Huntress",
@@ -820,7 +820,7 @@
       "eldritch": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/3/34/Huntress_Constellation_Icon.png?version=6abd89b7894ec11aefa9e36f7beebf3e",
-    "description": "+15 Offensive Ability\n\n+35% Pierce Damage\n+10 Cunning\n\n+60% Bleeding Damage\n+15 Offensive Ability\n\n+15% Damage to Beasts\n+100 Health\n+8 Pierce Resistance\nBonus to All Pets: +8% Health\n\n+3% Offensive Ability\nBonus to All Pets: +5% Offensive Ability\n\n24 Bleeding Damage over 3 Seconds\n+50% Bleeding Damage with +20% Increased Duration\n\nRend (20% Chance on Attack)\n\nAoEx Bleeding Damage per second-x Offensive Ability-x% Bleeding Resistance"
+    "description": "1) +15 Offensive Ability\n2) +50% Pierce Damage, +20 Cunning\n3) +60% Bleeding Damage, +15 Offensive Ability\n4N) +8% Damage to Beasts, +100 Health, +8% Pierce Resistance [Bonus to All Pets: +8% Health]\n4W) +3% Offensive Ability [Bonus to All Pets: +5% Offensive Ability]\n5W-S) x Bleeding Damage over 3 Seconds, +50% Bleeding Damage with +20% Increased Duration [Bonus to All Pets: x Bleeding Damage over 3 Seconds]\n5W-N) Ability - Rend (20% Chance on Attack)\n<5 Second Duration, 2 Meter Radius>\nx Bleeding Damage per Second, -x Offensive Ability, -12% Bleeding Resistance"
   },
   {
     "name": "Hydra",
