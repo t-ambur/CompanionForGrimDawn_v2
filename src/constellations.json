@@ -407,7 +407,7 @@
       "order": 5
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/1/1b/Crane_Constellation_Icon.png/360px-Crane_Constellation_Icon.png?version=57cda26e94cff38849d44503fd571a0b",
-    "description": "+8 Physique\n+8 Spirit\n\n12% Poison & Acid Resistance\n\n+15% to All Damage\n-10% Spirit Requirement for all Weapons\n\n8% Vitality Resistance\n\n10% Elemental Resistance"
+    "description": "1) +15 Physique, +15 Spirit\n2) 12% Poison & Acid Resistance [Bonus to All Pets: 12% Poison and Acid Resistance]\n3) +15% to All Damage, -10% Spirit Requirement for all Weapons\n4) 12% Vitality Resistance [Bonus to All Pets: 12% Vitality Resistance\n5) 16% Elemental Resistance, 16% Bleeding Resistance, 22% Reflected Damage Reduction"
   },
   {
     "name": "Dryad",
@@ -419,7 +419,7 @@
       "order": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/c/c5/Dryad_Constellation_Icon.png?version=081d8a5628737ba06cd633c42a390e1f",
-    "description": "+200 Energy\n10% Poison & Acid Resistance\n\n+80 Health\n+1 Energy Regenerated per second\n\n20% Reduction in Poison Duration\n20% Reduction in Bleeding Duration\n\n+5% Spirit\n-10% Spirit Requirement for Jewelry\n\nDryad's Blessing (33% Chance on Attack)\n\nx% + y Health restoredPoison & Bleeding Duration Reduced by x%"
+    "description": "1) +15 Physique, +200 Energy, 10% Poison & Acid Resistance\n2) +80 Health, +1 Energy Regenerated per second\n3) +3% Movement Speed, 15% Slow Resistance\n4) +5% Spirit, -10% Spirit Requirement for all Weapons,-10% Spirit Requirement for Jewelry\n4) Ability - Dryad's Blessing (33% Chance on Attack)\n<8 Second Skill Recharge, 10 Second Duration>\nx% + y Health Restored, +x Armor, x% Reduction in Poison Duration, x% Reduction in Bleeding Duration"
   },
   {
     "name": "Lion",
@@ -431,7 +431,7 @@
       "order": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/7/7f/Lion_Constellation_Icon.png?version=3cd83c45b55493b4d16259d9ec44a311",
-    "description": "+4% Health\n+8 Defensive Ability\nBonus to All Pets: +3% Health\n\n+15 Spirit\n+100 Health\n+3% Movement Speed\n\n+15% to All Damage\nBonus to All Pets: +12% to All Damage"
+    "description": "1) +4% Health, +8 Defensive Ability [Bonus to All Pets: +3% Health]\n2) +15 Spirit, +100 Health, +3% Movement Speed\n3) +15% to All Damage, 2% Physical Resistance [Bonus to All Pets: +12% to All Damage]"
   },
   {
     "name": "Lotus",
@@ -444,7 +444,7 @@
       "order": 2
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/c8/Lotus_W_BG.png/360px-Lotus_W_BG.png?version=f885249438520369f665494c7878046e",
-    "description": "+30 Health\n\n+100 Energy\n\n+1 Energy Regenerated per second\n\nIncreases Energy Regeneration by 15%\n\n+80 Health\n\n+4% Energy\n\n8% Vitality Resistance\n\nHealing Effects Increased by 6%\n\n3% Physical Resistance"
+    "description": "1) +30 Health, +100 Energy\n2) +80 Health, +4% Energy, 8% Vitality Resistance\n3W) +1 Energy Regenerated per second, Increases Energy Regeneration by 15%\n3E) Healing Effects Increased by 6%, 3% Physical Resistance"
   },
   {
     "name": "Panther",
@@ -457,7 +457,7 @@
       "primordial": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/36/Panther_Constellation_Icon.png/360px-Panther_Constellation_Icon.png?version=48935daec9035b713a4cd68e5e1f7e89",
-    "description": "+12 Offensive Ability\nBonus to All Pets: +2% Offensive Ability\n\n+15 Cunning\n+15 Spirit\nBonus to All Pets: +15% to All Damage\n\n+15% to All Damage\nIncreases Energy Regeneration by 15%\nBonus to All Pets: +3% Offensive Ability\n\n+5% Crit Damage\n+20 Offensive Ability\nBonus to All Pets: +5% Crit Damage"
+    "description": "1) +12 Offensive Ability [Bonus to All Pets: +2% Offensive Ability]\n2) +15 Cunning, +15 Spirit [Bonus to All Pets: +15% to All Damage]\n3) +20 Offensive Ability, Increases Energy Regeneration by 15% [Bonus to All Pets: +3% Offensive Ability]\n4) +6% Crit Damage, +25 Offensive Ability [Bonus to All Pets: +5% Crit Damage]"
   },
   {
     "name": "Stag",
