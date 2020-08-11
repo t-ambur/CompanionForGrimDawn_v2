@@ -875,7 +875,7 @@
       "eldritch": 3
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/b/b9/Magi_Constellation_Icon.png/360px-Magi_Constellation_Icon.png?version=7eb78388bb6cd86365f7f4f78d1dd370",
-    "description": "+40% Fire Damage\n+50% Burn Damage\n\n+10 Defensive Ability\n8% Elemental Resistance\n\n+10 Defensive Ability\n25% Fire Resistance\n\n+100% Burn Damage\n+5% Casting Speed\n\n6-8 Fire Damage\n+40% Fire Damage\n\n36 Burn Damage over 3 Seconds\n+60% Burn Damage with +30% Increased Duration\n\nFissure (15% Chance on Attack)\n\nx FragmentsAoEx Fire Damagex Burn Damage over y secondsx% Chance to Stun target for y Seconds\n"
+    "description": "1) +40% Fire Damage, +50% Burn Damage\n2) +10 Defensive Ability, 8% Elemental Resistance\n3) +10 Defensive Ability, 25% Fire Resistance, 15% Reduced Entrapment Duration\n4E) +100% Burn Damage, +15 Physique, +5% Attack Speed, +5% Casting Speed\n4N) x Fire Damage, +40% Fire Damage\n4W) x Burn Damage over 3 Seconds, +50% Burn Damage with +30% Increased Duration\n5W) Ability - Fissure (15% Chance on Attack)\n<1.5 Second Skill Recharge, 5 Second Duration, 1 Meter Radius, 3-5 Fragments>\nx Fire Damage, x Burn Damage over y seconds, x% Chance to Stun target for y Seconds\n"
   },
   {
     "name": "Manticore",
@@ -889,7 +889,7 @@
       "eldritch": 1
     },
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/9/94/Manticore_Constellation_Icon.png/360px-Manticore_Constellation_Icon.png?version=07a8545b78a42e02bec8eb791f19914a",
-    "description": "+15 Offensive Ability\n\n+50% Poison Damage\n+50% Acid Damage\n\n+4% Health\n\n+20 Offensive Ability\n25% Poison & Acid Resistance\n\n40 Poison Damage over 5 seconds\n+40% Acid Damage\n+40% Poison Damage with +30% Increased Duration\n\nAcid Spray (15% Chance on Attack)\n\nAoEx Acid Damagex Poison Damage over 2 secondsx Reduced Target's Armor for 5 secondsx Reduced Target's Resistances for 5 seconds"
+    "description": "1) +15 Offensive Ability\n2) +50% Acid Damage, +50% Poison Damage [Bonus to All Pets: +60% Poison Damage\n3) +5% Health [Bonus to All Pets: +5% Health]\n4S) +20 Offensive Ability, 4% Physical Resistance, 10% Poison & Acid Resistance [Bonus to All Pets: +4% Offensive Ability\n4E) x Poison Damage over 5 seconds, +40% Acid Damage, +40% Poison Damage with +30% Increased Duration\n5E) Ability - Acid Spray (15% Chance on Attack)\n<1 Second Skill Recharge, 4 Meter Range>\nx Acid Damage, x Poison Damage over 2 seconds, x Reduced Target's Resistances for 5 seconds"
   },
   {
     "name": "Messenger of War",
