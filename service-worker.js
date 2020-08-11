@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CompanionForGrimDawn_v2/precache-manifest.1a39ebbb63cc5295fbb190ba7763821d.js"
+  "/CompanionForGrimDawn_v2/precache-manifest.a7ea47c3ddfaf8ee6317fa812f9c6bb0.js"
 );
 
 self.addEventListener('message', (event) => {
