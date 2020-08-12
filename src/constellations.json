@@ -1147,7 +1147,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/9/98/Abomination_Constellation_Icon.png/360px-Abomination_Constellation_Icon.png?version=804bdc3b7314acfbb873cb979d9cc456",
-    "description": "+80% Chaos Damage\n+80% Poison Damage\n\n+80% Acid Damage\n+80% Vitality Damage\n\n+40 Offensive Ability\n20% Poison & Acid Resistance\n+3% Maximum Poison & Acid Resistance\n\n+80% Chaos Damage\n+150 Health\n+20 Offensive Ability\n\n+80% Poison Damage\n+150 Health\n+20 Offensive Ability\n\n12 Acid Damage\n+100% Acid Damage\n+100% Poison Damage\n\nAbominable Might (100% on Enemy Death)\n\nx Chaos Damage+x% Chaos Damagex% Physical Damage converted to Chaos Damage+x% Health\n\nTainted Eruption (15% on Attack)\n\nAoEPoison DamageConfuse Target for 1.8 Seconds"
+    "description": "1) +80% Chaos Damage, +80% Poison Damage\n2) +80% Acid Damage, +80% Vitality Damage, +80% Vitality Decay\n3) +40 Offensive Ability, 20% Poison & Acid Resistance, +3% Maximum Poison & Acid Resistance\n4E) +80% Vitality Damage, +80% Chaos Damage, +250 Health, +30 Offensive Ability\n5E) Ability - Abominable Might (100% on Enemy Death)\n<18 Second Skill Recharge, 8 Second Duration>\nx Chaos Damage, +x% Vitality Damage, +x% Chaos Damage, +x% Vitality Decay, x% Physical Damage converted to Chaos Damage, Increases Health Regeneration by 25%\n4W) +80% Poison Damage, +80% Vitality Damage, +250 Health, +30 Offensive Ability\n5W) x Acid Damage, +100% Acid Damage, +100% Poison Damage\n6W) Ability - Tainted Eruption (15% on Attack)\n<3 Second Skill Recharge, 10 Meter Radius>\nx Poison Damage over 5 Seconds, Confuse Target for x Seconds"
   },
   {
     "name": "Aeon's Hourglass",
@@ -1158,7 +1158,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/35/Aeons_Hourglass_Constellation_Icon.png/360px-Aeons_Hourglass_Constellation_Icon.png?version=ff7689227118f5b440661a4fe0e9198c",
-    "description": "+30 Physique/Cunning/Spirit\n\n+25% Reduction in DoT Duration\n\n30% Reduced Entrapment Duration\n50% Slow Resistance\n+25% Reflected Damage Reduction\n\n20% Aether Resistance\n15% Vitality Resistance\n+4% Maximum Vitality Resistance\n\n+75 Defensive Ability\n6% Chance to Avoid Melee Attacks\n6% Chance to Avoid Projectiles\n\nTime Dilation (20% Chance on Attack)\n\n-6 Seconds to All Currently Active Skill Cooldownsx Second Skill Recharge"
+    "description": "1) +40 Physiquem +40 Cunning, +40 Spirit\n2) +25% Reduction in DoT Duration (Internal Trauma, Burn, Frostburn, Electrocute, Poison, Vitality Decay, Bleeding, Life Leech)\n3) 30% Reduced Entrapment Duration, 50% Slow Resistance, +25% Reflected Damage Reduction\n4) 15% Vitality Resistance, 20% Aether Resistance, +4% Maximum Vitality Resistance\n5) +45 Defensive Ability, 6% Chance to Avoid Melee Attacks, 6% Chance to Avoid Projectiles\n6) Ability - Time Dilation (20% Chance on Attack)\n<26 Second Skill Recharge>\n-x Seconds to All Currently Active Skill Cooldowns"
   },
   {
     "name": "Attak Seru, the Mirage",
@@ -1169,7 +1169,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/8/82/Attak_Seru_Constellation_Icon.png/360px-Attak_Seru_Constellation_Icon.png?version=3022488202ea5c252cdc9de491264f45",
-    "description": "+80% Aether Damage\n+25 Defensive Ability\n\n+80% Elemental Damage\n+25 Defensive Ability\n\n25% Pierce Resistance\n25% Bleeding Resistance\n\n+300 Health\n+3% Defensive Ability\n\n12 Elemental Damage\n+100% Aether Damage\n+100% Elemental Damage\n\nArcane Currents (15% Chance on Attack)\n\nScales with Player Bonusesx Aether Damagex Elemental Damage"
+    "description": "1) +80% Aether Damage, +25 Defensive Ability\n2) +80% Elemental Damage, +25 Defensive Ability\n3) 25% Pierce Resistance, 25% Bleeding Resistance\n4) +300 Health, +4% Defensive Ability\n5W) x Elemental Damage, +100% Aether Damage, +100% Elemental Damage\n5E) Ability - Arcane Currents (25% Chance on Attack)\n<1 Second Skill Recharge, 5 Summon Limit, Lives for 4.5 Seconds, 14 Meter Range>\nScales with Player Bonuses, x Aether Damage, x Elemental Damage, +x% Crit Damage"
   },
   {
     "name": "Blind Sage",
@@ -1180,7 +1180,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/5/5b/Blind_Sage_Constellation_Icon.png/360px-Blind_Sage_Constellation_Icon.png?version=831ec0aadd7c5bfca249516c978c20b5",
-    "description": "+25 Spirit\n+15 Offensive Ability\n\n+80% Elemental Damage\n+40 Offensive Ability\n\n+10% Crit Damage\n+30% Skill Disruption Protection\n\n+100% Cold Damage\n+200% Frostburn Damage\n20% Cold Resistance\n\n+100% Fire Damage\n+200% Burn Damage\n20% Fire Resistance\n\n+100% Lightning Damage\n+200% Electrocute Damage\n20% Lightning Resistance\n\nElemental Seeker (100% Chance on Attack)\n\nSummon Scales with Player BonusesAoEx Elemental DamageEnergy BurnStun"
+    "description": "1) +30 Physique, +30 Spirit, +25 Offensive Ability\n2) +80% Elemental Damage, +25 Offensive Ability, 15% Elemental Resistance\n3) +12% Crit Damage, +40 Defensive Ability, +30% Skill Disruption Protection\n4W) +100% Cold Damage, +200% Frostburn Damage with +25% Increased Duration\n4E) +100% Lightning Damage, +200% Electrocute Damage with +25% Increased Duration\n4N) +100% Fire Damage, +200% Burn Damage with +25% Increased Duration\n5N) Ability - Elemental Seeker (100% Chance on Attack)\n<1.2 Second Skill Recharge, 1 Meter Radius, Lives for 3 Seconds>\nSummon Scales with Player Bonuses, Burning Presence - x Elemental Damage with 3.8 Meter Radius, Detonate - 3.8 Meter Radius, x Elemental Damage, +x% Crit Damage, Stun target for 2 Seconds"
   },
   {
     "name": "Dying God",
@@ -1191,7 +1191,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/e3/Dying_God_Constellation_Icon.png/360px-Dying_God_Constellation_Icon.png?version=421d48337ffdba40f787326b78a0b4f1",
-    "description": "+80% Vitality Damage\n+20 Offensive Ability\n\n+80% Chaos Damage\n+20 Offensive Ability\n\n+35 Spirit\n+3% Offensive Ability\nBonus to All Pets: +30% to All Damage, +5% Attack Speed\n\n+45 Offensive Ability\n+25 Defensive Ability\n15% Chaos Resistance\n\n+100% Vitality Damage\n+100% Chaos Damage\n\n10-36 Chaos Damage\nBonus to All Pets: +60% to All Damage, +10% Crit Damage\n\nHungering Void (100% Chance on Attack)\n\nx Energy Cost/secondx Health Cost/secondAoEx% Crit Damagex% Vitality Damagex% Chaos Damage+x% Total Speedx Chaos Retaliationx% Chance of 3 Seconds of Terrify RetaliationBonus to All Pets:x% Total Damagex% Crit Damagex% Chance of Stun Target for 1 Secondx% Chance of 30% Slow Target for 3 Seconds"
+    "description": "1) +80% Vitality Damage, +20 Offensive Ability\n2) +80% Chaos Damage, +20 Offensive Ability\n3) +35 Spirit, +3% Offensive Ability [Bonus to All Pets: +30% to All Damage, +5% Attack Speed]\n4) +45 Offensive Ability, +25 Defensive Ability, 15% Chaos Resistance\n5) +100% Vitality Damage, +100% Chaos Damage\n6S) x Chaos Damage, +4% Crit Damage [Bonus to All Pets: +60% to All Damage, +10% Crit Damage]\n6E) Ability - Hungering Void (33% Chance on Attack)\n<140 Active Health Cost per Second, 30 SEcond Skill Recharge, 20 Second Duration, 12 Meter Radius>\nx% Crit Damage, x% Vitality Damage, x% Chaos Damage, +x% Vitality Decay, +x% Total Speed, x Chaos Retaliation, x% Chance of 3 Seconds of Terrify Retaliation [Bonus to All Pets: x% to All Damage, x% Crit Damage, x% Chance of Stun Target for 1 Second, x% Chance of 30% Slow Target for 3 Seconds"
   },
   {
     "name": "Ishtak, the Spring Maiden",
@@ -1202,7 +1202,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/e/e2/Ishtak_Constellation_Icon.png/360px-Ishtak_Constellation_Icon.png?version=643673f44ac3c86570b39fb7e5eb3e21",
-    "description": "+300 Health\n+300 Energy\n\n+3% Spirit\n+3% Defensive Ability\nBonus to All Pets: +3% Defensive Ability\n\n+4% Total Speed\n30% Slow Resistance\nBonus to All Pets: +4% Total Speed\n\n+300 Health\n20% Bleeding Resistance\nBonus to All Pets: 20% Bleeding Resistance\n\n+300 Health\n25% Poison & Acid Resistance\nBonus to All Pets: 25% Poison & Acid Resistance\n\nNature's Guardian (25% Chance when Hit)\n\nx% Damage AbsorptionBonus to All Pets:x Physical DamageTaunt target+x Offensive Ability+x Defensive Ability+x Health Regenerated per Second\n"
+    "description": "1) +300 Health, +300 Energy [Bonus to All Pets: x Physical Damage]\n2) +3% Spirit, +3% Defensive Ability [Bonus to All Pets: +3% Defensive Ability, 20% Resistances to Life Reduction]\n3) +4% Total Speed, 30% Slow Resistance [Bonus to All Pets: +6% Total Speed]\n4) +300 Health, 20% Bleeding Resistance [Bonus to All Pets: 20% Bleeding Resistance]\n5) +300 Health, 25% Poison & Acid Resistance [Bonus to All Pets: 25% Poison & Acid Resistance]\n6) Ability - Nature's Guardian (25% Chance when Hit)\n<15 Second Skill Recharge, 6 Second Duration>\nx% Damage Absorption [Bonus to All Pets: x Physical Damage, Taunt target, +x Offensive Ability, +x Defensive Ability]"
   },
   {
     "name": "Leviathan",
@@ -1213,7 +1213,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/1/1c/Leviathan_Constellation_Icon.png/360px-Leviathan_Constellation_Icon.png?version=2cc1ae67c25cde5dbcce733245bb285c",
-    "description": "8 Cold Damage \n+80% Cold Damage\n\n+25 Physique \n+5% Health\n\n+10% Energy \n+40 Defensive Ability \nIncreases Energy Regeneration by 20%\n\n+20% Pierce Resistance \n20% Cold Resistance\n\n12-16 Cold Damage \n+100% Cold Damage\n\n15 Frostburn Damage over 3 Seconds \n+100% Frostburn Damage \n+3% Maximum Cold Resistance\n\nWhirlpool (30% on Attack)\n\nAoEx Cold Damagex Frostburn Damage over 2 Secondsx% Slower target Movement for 2 Seconds"
+    "description": "1) x Cold Damage, +80% Cold Damage\n2) +35 Physique, +5% Health\n3) +10% Energy, +40 Defensive Ability, Increases Energy Regeneration by 20%\n4) 4% Physical Resistance, 20% Pierce Resistance\n5N) x Cold Damage, +100% Cold Damage\n5S) x Frostburn Damage over 3 Seconds, +100% Frostburn Damage, +3% Maximum Cold Resistance\n5E) Ability - Whirlpool (30% on Attack)\n<2 Second Skill Duration, 6 Second Duration, 3.5 Meter Radius>\nx Cold Damage, x Frostburn Damage over 2 Seconds, x% Slower target Movement for 2 Seconds"
   },
   {
     "name": "Light of Empyrion",
@@ -1224,7 +1224,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/8/81/Light_of_Empyrion_Constellation_Icon.png/360px-Light_of_Empyrion_Constellation_Icon.png?version=3516a9334b567a441496c9c3b65cc5d8",
-    "description": "15% Elemental Resistance\nBonus to All Pets: 15% Elemental Resistance\n\n+80% Physical Damage +80% Fire Damage\n+10% Damage to Chthonics\n+30 Defensive Ability\n\n+6% Health\nBonus to All Pets: +6% Health\n\n+4% Health 15% Vitality Resistance\nBonus to All Pets: +4% Health 15% Vitality Resistance\n\n20% Aether Resistance\n20% Chaos Resistance\nBonus to All Pets: 20% Aether Resistance 20% Chaos Resistance\n\n28-46 Physical Damage 55-91 Fire Damage\n+3% Maximum Aether Resistance\n+3% Maximum Chaos Resistance\nBonus to All Pets: +5% Maximum All Resistances\n\nLight of Empyrion (20% Chance when Hit by Melee Attacks)\n\n33% Main Hand Damagex Physical Damagex Fire DamageKnockdown target for x Secondsx Reduced target's Damage for y Seconds+50% Damage to Undead+50% Damage to Chthonics"
+    "description": "1) 15% Elemental Resistance [Bonus to All Pets: 15% Elemental Resistance]\n2) +80% Physical Damage, +80% Fire Damage, +10% Damage to Chthonics, +30 Defensive Ability\n3) +6% Health [Bonus to All Pets: +6% Health]\n4) +4% Health, 15% Vitality Resistance [Bonus to All Pets: +4% Health, 15% Vitality Resistance]\n5) 20% Aether Resistance, 20% Chaos Resistance [Bonus to All Pets: 20% Aether Resistance, 20% Chaos Resistance]\n6) x Physical Damage, x Fire Damage, +3% Maximum Aether Resistance, +3% Maximum Chaos Resistance [Bonus to All Pets: +5% Maximum All Resistances]\n7) Ability - Light of Empyrion (20% Chance when Hit)\n<2.5 Second Skill Recharge, 5 Meter Radius>\nx% Main Hand Damage, x Physical Damage, x Fire Damage, Knockdown target for x Seconds, x% Reduced target's Damage for y Seconds, +50% Damage to Undead, +50% Damage to Chthonics"
   },
   {
     "name": "Mogdrogen the Wolf",
@@ -1235,7 +1235,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/a/ae/Mogdrogen_the_Wolf_Constellation_Icon.png/360px-Mogdrogen_the_Wolf_Constellation_Icon.png?version=1d7469e48c6ba8e32aff4dd253c12bdd",
-    "description": "+35 Offensive Ability \nBonus to All Pets: +5% Offensive Ability\n\n+80% Bleeding Damage \nBonus to All Pets: +30% Total Damage\n\n+30 Defensive Ability\n+20% Vitality Resistance\nBonus to All Pets: +6% Total Speed\n\n54 Bleeding Damage over 5 Seconds \n+80% Bleeding Damage with +50% Increased Duration\n\n+15% Elemental Resistance \n+15% Bleeding Resistance \n+3% Maximum Bleeding Resistance \nBonus to All Pets: +80% Total Damage\n\nHowl of Mogdrogen (20% Chance on Attack)\n\nx Bleeding Damage over 3 Seconds+x% Bleeding Damage15% Chance of x Reduced Target's Defensive Ability for 3 Seconds+x% Total SpeedBonus to All Pets:+x% Offensive Ability+x% Total Speed"
+    "description": "1) +35 Offensive Ability [Bonus to All Pets: +5% Offensive Ability]\n2) +80% Bleeding Damage [Bonus to All Pets: +30% Total Damage]\n3) +30 Defensive Ability, +20% Vitality Resistance [Bonus to All Pets: +6% Total Speed]\n4) x Bleeding Damage over 3 Seconds, +80% Bleeding Damage with +50% Increased Duration [Bonus to All Pets: x Bleeding Damage over x Seconds]\n5) +15% Elemental Resistance, +15% Bleeding Resistance, +3% Maximum Bleeding Resistance [Bonus to All Pets: +80% Total Damage]\n6) Ability - Howl of Mogdrogen (20% Chance on Attack)\n<15 Second Skill Recharge, 5 Second Duration>\nx Bleeding Damage over 3 Seconds, +x% Bleeding Damage, x Reduced Target's Defensive Ability for 3 Seconds, +x% Attack Speed [Bonus to All Pets: x Bleeding Damage over 3 Seconds, +x% Offensive Ability, +x% Total Speed"
   },
   {
     "name": "Obelisk of Menhir",
