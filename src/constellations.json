@@ -1246,7 +1246,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/3/38/Obelisk_of_Menhir_Constellation_Icon.png?version=053de9f814899fe0044fca4ae0f8dba4",
-    "description": "Increases Armor by 7%\n\n+30 Defensive Ability\n+150 Armor\n\n+100% to All Retaliation Damage\n\n+25 Defensive Ability\n+5% Defensive Ability\n\n+5% Shield Block Chance\n+30% Shield Damage Blocked\n\nIncreases Armor by 4%\n30% Reduced Stun Duration\n30% Reduced Freeze Duration\n+3% Maximum Pierce Resistance\n\nStone Form (15% Chance on Block)\n\nAoEIncreases Armor by x%Increases Armor Absorption by x%x% Pierce Resistancex% Reduction in Poison Durationx% Reduction in Bleeding Duration+x% to All Retaliation Damage\n"
+    "description": "1) x Physical Damage Retaliation, +100% to All Retaliation Damage\n2) +30 Defensive Ability, +150 Armor\n3) Increases Armor by 10%\n4) +25 Defensive Ability, +5% Defensive Ability\n5) +5% Shield Block Chance, +30% Shield Damage Blocked\n6) Increases Armor Absorption by 18%, 30% Reduced Stun Duration, 30% Reduced Freeze Duration, +3% Maximum Pierce Resistance\n7) Ability - Stone Form (15% Chance on Block)\n<12 Second Skill Recharge, 8 Second Duration, 15 Meter Radius>\nx Damage Absorption, x% Reduction in Poison Duration, x% Reduction in Bleeding Duration, +50% to All Retaliation Damage"
   },
   {
     "name": "Oleron",
@@ -1257,7 +1257,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/c/cf/Oleron_Constellation_Icon.png/360px-Oleron_Constellation_Icon.png?version=52a518ce5037222562104a41f67acff3",
-    "description": "+20 Physique\n+20 Cunning\n+100 Health\n\n+80% Physical Damage\n+80% Internal Trauma Damage\n\n+30 Offensive Ability\n20% Pierce Resistance\n10% Bleeding Resistance\n\n+200 Health\n4% Physical Resistance\n\n9-12 Physical Damage\n+100% Physical Damage\n\n125 Internal Trauma over 5 Seconds\n+100% Internal Trauma Damage\n+15 Offensive Ability\n+2% Maximum Pierce Resistance\n\nBlind Fury (100% Chance on Critical Attack)\n\n(Requires a Melee Weapon)AoEx% Weapon Damagex Internal Trauma Damagex Bleeding DamageSlower Enemy AttackPhysical Resist Reduction"
+    "description": "1) +30 Physique, +30 Cunning, +100 Health\n2) +80% Physical Damage, +80% Internal Trauma Damage, +80% Bleeding Damage\n3) +30 Offensive Ability, +80 Armor, 10% Bleeding Resistance\n4) +200 Health, 4% Physical Resistance\n5W) x Physical Damage, +100% Physical Damage, +100% Bleeding Damage\n5N) x Internal Trauma over 5 Seconds, +100% Internal Trauma Damage, +15 Offensive Ability, +2% Maximum Pierce Resistance\n5E) Blind Fury (100% Chance on Critical Attack)\n<1 Second Skill Recharge, 6 Meter Radius>\nx% Main Hand Damage, x Physical Damage, x Internal Trauma Damage over 2 Seconds, x Bleeding Damage over 2 Seconds, x% Slower Enemy Attack for 5 Seconds"
   },
   {
     "name": "Rattosh, the Veilwarden",
@@ -1269,7 +1269,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/7/77/Rattosh_Constellation_Icon.png/360px-Rattosh_Constellation_Icon.png?version=fd829e2617500a64cf662bf2660660aa",
-    "description": "+150 Health\n+20 Offensive Ability\n\n+80% Vitality Damage\n+80% Aether Damage\n\n+150% Vitality Decay with +50% Duration\n+250 Health\n+35 Offensive Ability\n\n438 Vitality Decay over 3 Seconds\n+100% Vitality Damage\n+100% Aether Damage\n\n+250 Health\n15% Pierce Resistance\n15% Bleeding Resistance\n\nWill of Rattosh (15% Chance on Attack)\n\nx Vitality Damagex Aether Damage-x% Vitality Resistance-x% Life Leech Resistance"
+    "description": "1) +150 Health, +30 Offensive Ability\n2) +80% Vitality Damage, +80% Aether Damage\n3) +150% Vitality Decay with +50% Duration, +250 Health, +45 Offensive Ability\n4) x Vitality Decay over 3 Seconds, +100% Vitality Damage, +100% Aether Damage\n+250 Health\n5) +250 Health, 15% Pierce Resistance, 15% Bleeding Resistance\n6) Ability - Will of Rattosh (15% Chance on Attack)\n<4 Second Duration>\nx Vitality Damage, x Aether Damage, -x% Vitality Resistance, -x% Life Leech Resistance"
   },
   {
     "name": "Spear of the Heavens",
@@ -1280,7 +1280,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/5/5b/Spear_of_the_Heavens_Constellation_Icon.png/360px-Spear_of_the_Heavens_Constellation_Icon.png?version=8ec0e720b5a17e533df87703e6bb3daf",
-    "description": " 80% Lightning Damage\n+20 Offensive Ability\n\n80% Aether Damage\n+20 Offensive Ability\n\n+5% Offensive Ability\n15% Aether Resistance\n\n+10% Crit Damage\n20% Lightning Resistance\n\n+100% Lightning Damage\n+100% Aether Damage\n+3% Maximum Lightning Resistance\n\nSpear of the Heavens (50% Chance when Hit)\n\nx Lightning Damagex Aether DamageStun target for 1 second\n"
+    "description": "1) 80% Lightning Damage, +20 Offensive Ability\n2) 80% Aether Damage, +20 Offensive Ability\n3) +5% Offensive Ability, 15% Aether Resistance\n4) x Aether Damage, +5% Crit Damage, 20% Lightning Resistance\n5) +100% Lightning Damage, +100% Aether Damage, +3% Maximum Lightning Resistance\n6) Ability - Spear of the Heavens (50% Chance when Hit)\n<1 Second Skill Recharge, 0.5 Meter Target Area, 2.4 Meter Radius>\nx% Main Hand Damage, x Lightning Damage, x Aether Damage, x Electrocute Damage over 2 Seconds, Stun target for 1 second\n"
   },
   {
     "name": "Tree of Life",
@@ -1291,7 +1291,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/6/6d/Tree_of_Life_Constellation_Icon.png/360px-Tree_of_Life_Constellation_Icon.png?version=4e7fb8bce5bfca033c7da3bce9406da1",
-    "description": "+5% Health \nBonus to All Pets: +5% Health\n\n+20 Health Regenerated per Second \nBonus to All Pets: Increases H ealth Regeneration by 20%\n\n+8% Health \nBonus to All Pets: +5% Health\n\n+30 Defensive Ability \n+15 Health Regenerated per Second \nBonus to All Pets: Increases Health Regeneration by 20%\n\n+4% Health \nIncreases Health Regeneration by 20% \nBonus to All Pets: +50 Health Regenerated per Second\n\nHealing Rain (25% when Hit)\n\nx% + y Health Restored+x Health Regenerated per second+x Energy Regenerated per secondIncreases Health regeneration by x%Increases Energy Regeneration by x%\n"
+    "description": "1) +5% Health [Bonus to All Pets: +5% Health]\n2) +30 Health Regenerated per Second [Bonus to All Pets: Increases Health Regeneration by 50%]\n3W) +8% Health [Bonus to All Pets: +5% Health]\n3N) +30 Defensive Ability, +30 Health Regenerated per Second [Bonus to All Pets: Increases Health Regeneration by 50%]\n4N-E) +4% Health, Increases Health Regeneration by 50% [Bonus to All Pets: +80 Health Regenerated per Second]\n4N-W) Ability - Healing Rain (25% when Hit)\n<12 Second Skill Recharge, 8 Second Duration, 15 Meter Radius>\nx% + y Health Restored, +x Health Regenerated per second, +x Energy Regenerated per second, Increases Health regeneration by x%, Increases Energy Regeneration by x%\n"
   },
   {
     "name": "Ulzuin's Torch",
@@ -1302,7 +1302,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/9/99/Ulzuins_Torch_Constellation_Icon.png/360px-Ulzuins_Torch_Constellation_Icon.png?version=789e0dbaf8ceb85f2ac64e3cfec6aedd",
-    "description": " +80% Fire Damage\n+20 Offensive Ability\n\n+5% Offensive Ability\n15% Chaos Resistance\n\n+10% Crit Damage\n+5% Movement Speed\n\n+100% Fire Damage\n20% Fire Resistance\n\n75 Burn Damage over 3 Seconds\n+100% Burn Damage\n+3% Maximum Fire Resistance\n\n+100% Burn Damage with +100% Increased Duration\n\nMeteor Shower (30% Chance on Attack)\n\nAoEx Physical Damagex Fire Damagex Burn Damage"
+    "description": "1) +80% Fire Damage, +20 Offensive Ability\n2) +5% Offensive Ability, 15% Chaos Resistance\n3) +5% Crit Damage, +5% Movement Speed\n4E) +100% Fire Damage, 20% Fire Resistance\n5E) x Burn Damage over 3 Seconds, +100% Burn Damage, +3% Maximum Fire Resistance\n4W) +100% Burn Damage with +50% Increased Duration\n5W) Ability - Meteor Shower (30% Chance on Attack)\n<3.5 Second Skill Recharge, 3 Second Duration, 1 Projectile, 5 Meter Target Area, 2.4 Meter Radius, 0.2 Second Interval>\nx Physical Damage, x Fire Damage, x Burn Damage over 2 Seconds"
   },
   {
     "name": "Ultos, Shepherd of Storms",
@@ -1314,7 +1314,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/f/f3/Ultos_Constellation_Icon.png/360px-Ultos_Constellation_Icon.png?version=ddecdaaae184c786f80d92e1fa2487b1",
-    "description": " +80% Cold Damage\n+25 Offensive Ability\n\n+80% Lightning Damage\n+25 Offensive Ability\n\n+180 Health\n15% Chaos Resistance\n\n+5% Crit Damage\n+120% Frostburn Damage\n+120% Electrocute Damage\n+20 Offensive Ability\n\n3-20 Lightning Damage\n+100% Cold Damage\n+100% Lightning Damage\n\nHand of Ultos (100% Chance on Critical Attack)\n\nx% Main Hand Damagex Lightning Damagex Electrocute Damage over 2 SecondsStun Target for x Secondsx% Reduced target's Elemental Resistances for 3 Seconds \n"
+    "description": "1) +80% Cold Damage, +25 Offensive Ability\n2) +80% Lightning Damage, +25 Offensive Ability\n3W) +180 Health, 15% Chaos Resistance\n3E) +5% Crit Damage, +120% Frostburn Damage, +120% Electrocute Damage, +20 Offensive Ability\n4E) x Lightning Damage, +100% Lightning Damage, +100% Cold Damage\n5E) Ability - Hand of Ultos (100% Chance on Critical Attack)\n<1.5 Second Skill Recharge, Affects up to 6 targets>\nx% Main Hand Damage, x Lightning Damage, x Electrocute Damage over 2 Seconds, Stun Target for x Seconds, x% Reduced target's Elemental Resistances for 3 Seconds"
   },
   {
     "name": "Unknown Soldier",
@@ -1325,7 +1325,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/39/Unknown_Soldier_Constellation_Icon.png/360px-Unknown_Soldier_Constellation_Icon.png?version=de1286e0bd94910f462d9bb649a38d01",
-    "description": "+60% Pierce Damage\n+15 Offensive Ability\n\n54 Bleeding Damage over 3 Seconds\n+80% Bleeding Damage\n\n+280 Health\n+5% Attack Speed\n\n+80% Pierce Damage\n+80% Bleeding Damage\n\n+4% Health\n+40 Offensive Ability\n\n12 Piercing Damage\n+10% Crit Damage\n\nLiving Shadow (100% Chance on Critical Attack)\n\nSummon Limitx Piercing Damagex Bleeding Damage+x% Movement Speed"
+    "description": "1) +80% Pierce Damage, +15 Offensive Ability\n2) x Bleeding Damage over 3 Seconds, +80% Bleeding Damage\n3W) +280 Health, +5% Attack Speed\n3E) +100% Pierce Damage, +100% Bleeding Damage\n4E) +4% Health, +40 Offensive Ability\n5E) x Piercing Damage, +12% Crit Damage\n6E) Ability - Living Shadow (100% Chance on Critical Attack)\n<6 Second Skill Recharge, Lives for 10 Seconds>\nScales with player damage bonuses, Shadow Strike- x Piercing Damage, x Bleeding Damage per Second, x% of Attack Damage converted to Health, +x% Movement Speed, Shadow Blades- x Piercing Damage, x Bleeding Damage over 2 seconds, x% of Attack Damage converted to Health"
   },
   {
     "name": "Vire, the Stone Matron",
@@ -1336,7 +1336,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/5/5e/Vire_Constellation_Icon.png/360px-Vire_Constellation_Icon.png?version=bc75ac9164e96b10756fcb1f76a78c98",
-    "description": "+150 Health\n+75 Armor\n\n10% Aether Resistance\n10% Chaos Resistance\n70 Physical Damage Retaliation\n\n+4% Health\n+40 Armor\n+12% Shield Damage Blocked\n\n+80% Physical Damage\n+80% Internal Trauma Damage\n+3% Cunning\n+80% to All Retaliation Damage\n\n4% Physical Resistance\n20% Pierce Resistance\n20% Bleeding Resistance\n\nFist of Vire (20% Chance when Hit)\n\nx% Main Hand Damagex Physical Damagex Internal Trauma over 5 SecondsPetrify target for x Seconds"
+    "description": "1) +150 Health, +75 Armor\n2) 10% Aether Resistance, 10% Chaos Resistance, x Physical Damage Retaliation\n3) +4% Health, +40 Armor, +12% Shield Damage Blocked\n4E) +80% Physical Damage, +80% Internal Trauma Damage, +3% Cunning, +80% to All Retaliation Damage\n4W) 4% Physical Resistance, 20% Pierce Resistance, 20% Bleeding Resistance\n5W) Ability - Fist of Vire (20% Chance when Hit)\n<1 Second Skill Recharge, 1 Second Duration, 2.5 Meter Radius>\nx% Main Hand Damage, x% of Retaliation Damage added to Attack, x Physical Damage, x Internal Trauma over 5 Seconds, Petrify target for x Seconds, x% Reduced target's Physical Damage for 5 Seconds"
   },
   {
     "name": "Yugol, the Insatiable Night",
@@ -1347,7 +1347,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/f/f8/Yugol_W_BG.png/360px-Yugol_W_BG.png?version=c40f16d15f9ac8fed6d7ee325e9d3239",
-    "description": "+80% Cold Damage\n+25 Offensive Ability\n\n+80% Acid Damage\n+25 Offensive Ability\n\n25% Vitality Resistance\n10% Reflected Damage Reduction\n\n+100% Cold Damage\n+100% Acid Damage\n+3% Spirit\n\n10 Cold Damage\n10 Acid Damage\n6% of Attack Damage converted to Health\n40% Life Leech Resistance\n\nBlack Blood of Yugol (30% Chance when Hit)\n\nx Second Skill RechargeSummon LimitLives for x Secondsx Meter Radiusx Cold Damagex Acid DamageIncreases Health Regeneration by -x%-25% Movement Speed"
+    "description": "1) +80% Cold Damage, +25 Offensive Ability\n2) +80% Acid Damage, +25 Offensive Ability\n3) 25% Vitality Resistance, 10% Reflected Damage Reduction\n4E) +100% Cold Damage, +100% Acid Damage, +3% Spirit\n4N) x Cold Damage, x Acid Damage, 6% of Attack Damage converted to Health, 40% Life Leech Resistance\n5E) Ability - Black Blood of Yugol (30% Chance when Hit)\n<0.8 Second Skill Recharge, 6 Summon Limit, Lives for 6 Seconds, 3 Meter Radius>\nx Cold Damage, x Acid Damage, x% Reduced target's Damage for 1 Second, Increases Health Regeneration by -x%, -x% Movement Speed"
   },
   {
     "name": "Korvaak, the eldritch Sun",
@@ -1358,7 +1358,7 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/5/56/Korvaak_W_BG.png/360px-Korvaak_W_BG.png?version=b6839d882fad18888863ae125a6599ba",
-    "description": "+30% to All Damage\nBonus to All Pets: +30% to All Damage\n\n+6% Health\nBonus to All Pets: +6% Health\n\n20% Chaos Resistance\nBonus to All Pets: 20% Chaos Resistance\n\n+30% to All Damage\n+5% Offensive Ability\nBonus to All Pets: +30% to All Damage\n+5% Offensive Ability\n\n+30% to All Damage\n+8% Crit Damage\nBonus to All Pets: +30% to All Damage\n+8% Crit Damage\n\nEye of Korvaak (100% Chance on Critical Attack)\n\nx Second Skill Recharge6 Projectiles100% Chance to pass through Enemies1 Meter Radiusx % Main Hand Damagex Chance of Petrify Target for 0.8 secondsx Reduced target's Offensive Ability for 5 secondsx Reduced target's Defensive Ability for 5 seconds"
+    "description": "1) +30% to All Damage [Bonus to All Pets: +30% to All Damage]\n2) +6% Health, [Bonus to All Pets: +6% Health]\n3) 20% Chaos Resistance [Bonus to All Pets: 20% Chaos Resistance]\n4W) +30% to All Damage, +5% Offensive Ability [Bonus to All Pets: +30% to All Damage, +5% Offensive Ability]\n4E) +30% to All Damage, +8% Crit Damage [Bonus to All Pets: +30% to All Damage, +8% Crit Damage]\n4N) Ability - Eye of Korvaak (100% Chance on Critical Attack)\n<1.5 Second Skill Recharge, 6 Projectiles, 100% Chance to pass through Enemies, 1 Meter Radius>\nx% Main Hand Damage, x% Chance of Petrify Target for 0.8 seconds, x Reduced target's Offensive Ability for 5 seconds, x Reduced target's Defensive Ability for 5 seconds"
   },
   {
     "name": "Azrakaa, the Eternal Sands",
@@ -1370,6 +1370,6 @@
     },
     "rewards": {},
     "imageSrc": "https://gamepedia.cursecdn.com/grimdawn_gamepedia_en/thumb/3/3e/Azrakaa_W_BG.png/360px-Azrakaa_W_BG.png?version=92e6525bb7d1b961837f9b1e2265540a",
-    "description": "+80% Physical Damage\n+80% Pierce Damage\n\n+180 Health\n+90 Armor\n\n+180 Health\n+50 Defensive Ability\n+6% Movement Speed\n\n+50 Defensive Ability\n+6% Attack Speed\n+6% Casting Speed\n\n+52-64 Pierce Damage\n+100% Physical Damage\n+100% Pierce Damage\n\nShifting Sands (20% Chance on Attack)\n\nx Second Skill Rechargex Second Duration100% Chance to pass through Enemies2 Meter Radiusx % Main Hand Damagex Physical Damagex Piercing Damagex % Crit Damagex Reduced target's Offensive Ability for 3 secondsx Chance of Impaired Aim to target for 3 seconds"
+    "description": "1) +80% Physical Damage, +80% Pierce Damage\n2) +180 Health, +90 Armor\n3) +180 Health, +50 Defensive Ability, +6% Movement Speed\n4N) +50 Defensive Ability, +6% Attack Speed, +6% Casting Speed\n4W) +x Pierce Damage, +100% Physical Damage, +100% Pierce Damage\n5W) Ability - Shifting Sands (20% Chance on Attack)\n<0.5 Second Skill Recharge, 1 Second Duration, 100% Chance to pass through Enemies, 2 Meter Radius>\nx% Main Hand Damage, x Physical Damage, x Piercing Damage, x% Crit Damage, x Reduced target's Offensive Ability for 3 seconds, x% Chance of Impaired Aim to target for 3 seconds"
   }
 ]
