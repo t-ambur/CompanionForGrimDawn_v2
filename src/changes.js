@@ -24,6 +24,12 @@ class Changes extends React.Component
                 </p>
                 <h1> Change Log </h1>
 
+                <h3> 08/11/2020 - v0.2.1 </h3>
+                <ul>
+                    <li> Correct Reward to Staff </li>
+                    <li> I am aware of the Search bug (refresh as a workaround) and some primordials not displaying required amount properly</li>
+                </ul>
+
                 <h3> 08/11/2020 - v0.2.0 </h3>
                 <ul>
                     <li> All Devotion Descriptions up to date with Grim Dawn version v1.1.7.2</li>
