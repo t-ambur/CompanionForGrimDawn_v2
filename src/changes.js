@@ -24,10 +24,11 @@ class Changes extends React.Component
                 </p>
                 <h1> Change Log </h1>
 
-                <h3> DATE - v0.2.2 </h3>
+                <h3> 8/14/2020 - v0.2.2 </h3>
                 <ul>
                     <li> Removed mastery option from nav bar (grim tools already does this) </li>
-                    <li> WIP - Fixed search functionality </li>
+                    <li> Updated UI </li>
+                    <li> Fixed primordials not showing requirements </li>
                 </ul>
 
                 <h3> 08/11/2020 - v0.2.1 </h3>

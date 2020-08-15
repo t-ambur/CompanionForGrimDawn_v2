@@ -30,7 +30,7 @@ import React from "react";
 import {ascendantImg, chaosImg, eldritchImg, imgBg, orderImg, primordialImg} from "./constants";
 import {isAvailable, getSummary} from "./Utils";
 
-export function cardLayout(constellation) {
+export function cardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, selected) {
     return (
         <Stack>
             <Text textAlign={[ 'left', 'center' ]}>
@@ -60,11 +60,11 @@ export function cardLayout(constellation) {
                                         </Text>
                                     )
                                 })
-                            } </TabPanel>
+                            } 
+                </TabPanel>
             </TabPanels>
             </Tabs>
             {
-                (constellation.requirements.ascendant || constellation.requirements.chaos || constellation.requirements.eldritch || constellation.requirements.order || constellation.requirements.primoridal) &&
                 <Stack isInline w="100%" align={"center"}>
                     <Text pl={4}>
                         Required:
@@ -123,7 +123,6 @@ export function cardLayout(constellation) {
             }
 
             {
-                (constellation.rewards.ascendant || constellation.rewards.chaos || constellation.rewards.eldritch || constellation.rewards.order || constellation.rewards.primordial) &&
                 <Stack isInline w="100%" align={"center"}>
                     <Text pl={4}>
                         Rewards:
@@ -182,8 +181,10 @@ export function cardLayout(constellation) {
             }
             <Flex justify="center" align="center">
                 <ButtonGroup spacing={10}>
-                    <Button size="lg"> Select </Button>
-                    <Button size="lg"> Remove </Button>
+                {isAvailable(constellation.requirements, resources) && !constellation.isSelected &&
+                    <Button onClick={() => onAddItemClicked(constellation)} size="lg"> Select </Button> }
+                {constellation.isSelected &&
+                    <Button onClick={() => onRemoveItemClicked(constellation)} size="lg"> Remove </Button> }
                 </ButtonGroup>
             </Flex>
         </Stack>

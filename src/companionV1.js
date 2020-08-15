@@ -78,10 +78,11 @@ export default class CompanionV1 extends React.Component {
                 resources.order += constellation.rewards.order ? constellation.rewards.order : 0;
                 resources.primordial += constellation.rewards.primordial ? constellation.rewards.primordial : 0;
 
+                
                 data.find((item) => {
                     return item.name === constellation.name
                 }).isSelected = true;
-
+                
                 pathHistory += (this.state.pathSize + 1) + ": Add " + constellation.name + "\n";
                 pathSize += 1;
                 this.setState({
@@ -198,13 +199,6 @@ export default class CompanionV1 extends React.Component {
                                     borderWidth="1px"
                                     rounded="md"
                                     overflow="hidden"
-                                    onClick={() => {
-                                        this.setState({
-                                            constellations: data,
-                                            selected: constellation
-                                        });
-                                        onOpen();
-                                    }}
                                     _hover={{
                                         shadow: "lg",
                                     }}
@@ -212,7 +206,7 @@ export default class CompanionV1 extends React.Component {
                                         shadow: "none",
                                     }}>
                                     {
-                                        cardLayout(constellation)
+                                        cardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, selected, data)
                                     }
                                 </PseudoBox>
                             )
