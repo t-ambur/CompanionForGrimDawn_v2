@@ -29,7 +29,7 @@ export default class CompanionV1 extends React.Component {
                 constellations: save.data,
                 resources: save.resources,
                 pathHistory: save.pathHistory,
-                pathSize: save.pathSize
+                pathSize: save.pathSize,
             }
         } else {
             this.state = {
@@ -50,7 +50,8 @@ export default class CompanionV1 extends React.Component {
                     primordial: 0
                 },
                 pathHistory: "",
-                pathSize: 0
+                pathSize: 0,
+                searchText: ""
             }
         }
     }
@@ -64,39 +65,40 @@ export default class CompanionV1 extends React.Component {
     ConstellationGrid = () => {
         const resources = this.state.resources;
         const selected = this.state.selected;
-        const data = sort(this.state.constellations, resources)
+        let data = sort(this.state.constellations, resources)
             .filter(constellation => this.state.searchText ? constellation.name.toLowerCase().includes(this.state.searchText) || constellation.description.toLowerCase().includes(this.state.searchText) : true);
         let pathHistory = this.state.pathHistory;
         let pathSize = this.state.pathSize;
-        const {isOpen, onOpen, onClose} = useDisclosure();
 
         const onAddItemClicked = (constellation) => {
             if (getPointsUsed(data) + constellation.points <= 55) {
-                resources.ascendant += constellation.rewards.ascendant ? constellation.rewards.ascendant : 0;
-                resources.chaos += constellation.rewards.chaos ? constellation.rewards.chaos : 0;
-                resources.eldritch += constellation.rewards.eldritch ? constellation.rewards.eldritch : 0;
-                resources.order += constellation.rewards.order ? constellation.rewards.order : 0;
-                resources.primordial += constellation.rewards.primordial ? constellation.rewards.primordial : 0;
-
-                
-                data.find((item) => {
-                    return item.name === constellation.name
-                }).isSelected = true;
-                
+                addRes(constellation);
+                constellation.isSelected = true;
                 pathHistory += (this.state.pathSize + 1) + ": Add " + constellation.name + "\n";
                 pathSize += 1;
                 this.setState({
                     constellations: data,
                     resources: resources,
                     pathHistory: pathHistory,
-                    pathSize: pathSize
+                    pathSize: pathSize,
+                    searchText: ""
                 });
                 save();
-                return true
+                localStorage.removeItem("search");
+                console.log(this.state.searchText);
+                data = sort(this.state.constellations, resources)
+                .filter(constellation => this.state.searchText ? constellation.name.toLowerCase().includes(this.state.searchText) || constellation.description.toLowerCase().includes(this.state.searchText) : true);    
             } else {
                 alert("You don't have enough points to add this devotion. Remove another one first.");
-                return false
             }
+        };
+
+        const addRes = (constellation) => {
+            resources.ascendant += constellation.rewards.ascendant ? constellation.rewards.ascendant : 0;
+            resources.chaos += constellation.rewards.chaos ? constellation.rewards.chaos : 0;
+            resources.eldritch += constellation.rewards.eldritch ? constellation.rewards.eldritch : 0;
+            resources.order += constellation.rewards.order ? constellation.rewards.order : 0;
+            resources.primordial += constellation.rewards.primordial ? constellation.rewards.primordial : 0;
         };
 
         const onRemoveItemClicked = (constellation) => {
@@ -108,9 +110,7 @@ export default class CompanionV1 extends React.Component {
                 resources.order -= constellation.rewards.order ? constellation.rewards.order : 0;
                 resources.primordial -= constellation.rewards.primordial ? constellation.rewards.primordial : 0;
 
-                data.find((item) => {
-                    return item.name === constellation.name
-                }).isSelected = false;
+                constellation.isSelected = false;
 
                 pathHistory += (this.state.pathSize + 1) + ": Remove " + constellation.name + "\n";
                 pathSize += 1;
@@ -121,10 +121,8 @@ export default class CompanionV1 extends React.Component {
                     pathSize: pathSize
                 });
                 save();
-                return true
             } else {
                 alert("Cannot remove. The following devotions depend on this: \n" + dependant);
-                return false
             }
         };
 
@@ -157,7 +155,7 @@ export default class CompanionV1 extends React.Component {
         const onSearch = (searchText) => {
             this.setState({
                 searchText: searchText
-            })
+            });
         };
 
         const listener = {
@@ -173,7 +171,7 @@ export default class CompanionV1 extends React.Component {
                     resources: resources,
                     pathHistory: pathHistory,
                     pathSize: pathSize
-                }))
+                }));
         };
 
         return (

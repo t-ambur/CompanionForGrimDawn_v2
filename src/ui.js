@@ -293,7 +293,14 @@ export function getHeader(resources, pointsUsed, listener) {
                 </Flex>
 
             </Stack>
-            <InputGroup pb={4}>
+            
+        </Stack>
+    )
+}
+
+/*
+this goes inbetween stack above
+<InputGroup pb={4}>
                 <InputLeftElement
                     height={16}
                     px={4}
@@ -332,7 +339,4 @@ export function getHeader(resources, pointsUsed, listener) {
                     height={16}
                     width={350}/>
             </InputGroup>
-        </Stack>
-
-    )
-}
+            */

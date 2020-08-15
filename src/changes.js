@@ -29,6 +29,7 @@ class Changes extends React.Component
                     <li> Removed mastery option from nav bar (grim tools already does this) </li>
                     <li> Updated UI </li>
                     <li> Fixed primordials not showing requirements </li>
+                    <li> temporary removed search bar as it is beyond broken at this point</li>
                 </ul>
 
                 <h3> 08/11/2020 - v0.2.1 </h3>
