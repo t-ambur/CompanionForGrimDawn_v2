@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/CompanionForGrimDawn_v2/static/css/main.a197e158.chunk.css",
-    "main.js": "/CompanionForGrimDawn_v2/static/js/main.2768124b.chunk.js",
-    "main.js.map": "/CompanionForGrimDawn_v2/static/js/main.2768124b.chunk.js.map",
+    "main.js": "/CompanionForGrimDawn_v2/static/js/main.1a257ee2.chunk.js",
+    "main.js.map": "/CompanionForGrimDawn_v2/static/js/main.1a257ee2.chunk.js.map",
     "runtime-main.js": "/CompanionForGrimDawn_v2/static/js/runtime-main.c9fc97f8.js",
     "runtime-main.js.map": "/CompanionForGrimDawn_v2/static/js/runtime-main.c9fc97f8.js.map",
-    "static/js/2.2e1f68ca.chunk.js": "/CompanionForGrimDawn_v2/static/js/2.2e1f68ca.chunk.js",
-    "static/js/2.2e1f68ca.chunk.js.map": "/CompanionForGrimDawn_v2/static/js/2.2e1f68ca.chunk.js.map",
+    "static/js/2.3c62d2b0.chunk.js": "/CompanionForGrimDawn_v2/static/js/2.3c62d2b0.chunk.js",
+    "static/js/2.3c62d2b0.chunk.js.map": "/CompanionForGrimDawn_v2/static/js/2.3c62d2b0.chunk.js.map",
     "index.html": "/CompanionForGrimDawn_v2/index.html",
-    "precache-manifest.9638da291e11be5b62fea66839e57d29.js": "/CompanionForGrimDawn_v2/precache-manifest.9638da291e11be5b62fea66839e57d29.js",
+    "precache-manifest.0d3ba4eaef0612c01bd1ef5868918bd2.js": "/CompanionForGrimDawn_v2/precache-manifest.0d3ba4eaef0612c01bd1ef5868918bd2.js",
     "service-worker.js": "/CompanionForGrimDawn_v2/service-worker.js",
     "static/css/main.a197e158.chunk.css.map": "/CompanionForGrimDawn_v2/static/css/main.a197e158.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c9fc97f8.js",
-    "static/js/2.2e1f68ca.chunk.js",
+    "static/js/2.3c62d2b0.chunk.js",
     "static/css/main.a197e158.chunk.css",
-    "static/js/main.2768124b.chunk.js"
+    "static/js/main.1a257ee2.chunk.js"
   ]
 }
