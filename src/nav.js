@@ -3,7 +3,6 @@ import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
 import './companion.css';
 
 import CompanionV1 from './companionV1';
-import Masteries from './masteries';
 import Changes from './changes';
 import Links from './links';
 
@@ -18,9 +17,6 @@ return(
         <Link to="/CompanionForGrimDawn_v2">
             <button className="const-butt"> Devotions </button>
         </Link>
-        <Link to="/CompanionForGrimDawn_v2/masteries">
-            <button className="mastery-butt"> Masteries </button>
-        </Link>
         <Link to="/CompanionForGrimDawn_v2/links">
             <button className="change-butt"> Links </button>
         </Link>
@@ -33,7 +29,6 @@ return(
       <Switch>
         <Route path="/" exact> <CompanionV1 /> </Route>
         <Route path="/CompanionForGrimDawn_v2" exact> <CompanionV1 /> </Route>
-        <Route path="/CompanionForGrimDawn_v2/masteries"> <Masteries /> </Route>
         <Route path="/CompanionForGrimDawn_v2/links"> <Links /> </Route>
         <Route path="/CompanionForGrimDawn_v2/changelog"> <Changes /> </Route>
       </Switch>

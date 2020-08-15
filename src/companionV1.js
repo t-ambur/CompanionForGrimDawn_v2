@@ -194,6 +194,7 @@ export default class CompanionV1 extends React.Component {
                                         getColor(constellation, this.state.resources)
                                     }
                                     maxW="sm"
+                                    w="350px"
                                     borderWidth="1px"
                                     rounded="md"
                                     overflow="hidden"
@@ -218,9 +219,6 @@ export default class CompanionV1 extends React.Component {
                         })
                     }
                 </SimpleGrid>
-                {
-                    cardDetail(selected, isOpen, onClose, resources, onAddItemClicked, onRemoveItemClicked)
-                }
                 <Modal isOpen={this.state.showSummary} onClose={
                     () => {
                         this.setState({

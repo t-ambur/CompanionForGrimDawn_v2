@@ -1,5 +1,6 @@
 import {
     Button,
+    ButtonGroup,
     Flex,
     Icon,
     Image,
@@ -18,24 +19,50 @@ import {
     ModalHeader,
     ModalOverlay,
     Stack,
+    Tabs,
+    TabList,
+    TabPanels,
+    Tab,
+    TabPanel,
     Text
 } from "@chakra-ui/core";
 import React from "react";
 import {ascendantImg, chaosImg, eldritchImg, imgBg, orderImg, primordialImg} from "./constants";
-import {isAvailable} from "./Utils";
+import {isAvailable, getSummary} from "./Utils";
 
 export function cardLayout(constellation) {
     return (
         <Stack>
-            <Image h="250px" style={{
-                backgroundImage: imgBg,
-                backgroundPosition: 'center',
-                backgroundSize: 'cover',
-                backgroundRepeat: 'no-repeat'
-            }} src={constellation.imageSrc}/>
-            <Text mx={4}>
+            <Text textAlign={[ 'left', 'center' ]}>
                 {constellation.name} (Points: {constellation.points})
             </Text>
+            <Tabs isFitted variant="enclosed">
+                <TabList>
+                    <Tab  _selected={{ color: "white", bg: "blue.500"}}> Image </Tab>
+                    <Tab _selected={{ color: "white", bg: "blue.500"}}> Description </Tab>
+                </TabList>
+            <TabPanels>
+                <TabPanel>
+                    <Image size="350px" style={{
+                    backgroundImage: imgBg,
+                    backgroundPosition: 'center',
+                    backgroundSize: 'cover',
+                    backgroundRepeat: 'no-repeat'
+                }} src={constellation.imageSrc}/>
+                </TabPanel>
+                <TabPanel bg={"gray.200"}> {
+                                constellation.description.split('\n').filter(function (el) {
+                                    return el !== "";
+                                }).map(line => {
+                                    return (
+                                        <Text px={4}>
+                                            {line}
+                                        </Text>
+                                    )
+                                })
+                            } </TabPanel>
+            </TabPanels>
+            </Tabs>
             {
                 (constellation.requirements.ascendant || constellation.requirements.chaos || constellation.requirements.eldritch || constellation.requirements.order || constellation.requirements.primoridal) &&
                 <Stack isInline w="100%" align={"center"}>
@@ -153,6 +180,12 @@ export function cardLayout(constellation) {
                     }
                 </Stack>
             }
+            <Flex justify="center" align="center">
+                <ButtonGroup spacing={10}>
+                    <Button size="lg"> Select </Button>
+                    <Button size="lg"> Remove </Button>
+                </ButtonGroup>
+            </Flex>
         </Stack>
     )
 }
