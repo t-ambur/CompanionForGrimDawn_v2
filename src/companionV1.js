@@ -77,17 +77,12 @@ export default class CompanionV1 extends React.Component {
                 pathHistory += (this.state.pathSize + 1) + ": Add " + constellation.name + "\n";
                 pathSize += 1;
                 this.setState({
-                    constellations: data,
+                    //constellations: data, // THIS CAUSED THE SEARCH BUG
                     resources: resources,
                     pathHistory: pathHistory,
-                    pathSize: pathSize,
-                    searchText: ""
+                    pathSize: pathSize
                 });
-                save();
-                localStorage.removeItem("search");
-                console.log(this.state.searchText);
-                data = sort(this.state.constellations, resources)
-                .filter(constellation => this.state.searchText ? constellation.name.toLowerCase().includes(this.state.searchText) || constellation.description.toLowerCase().includes(this.state.searchText) : true);    
+                save(); 
             } else {
                 alert("You don't have enough points to add this devotion. Remove another one first.");
             }
@@ -115,7 +110,7 @@ export default class CompanionV1 extends React.Component {
                 pathHistory += (this.state.pathSize + 1) + ": Remove " + constellation.name + "\n";
                 pathSize += 1;
                 this.setState({
-                    constellations: data,
+                    // constellations: data,
                     resources: resources,
                     pathHistory: pathHistory,
                     pathSize: pathSize

@@ -1,7 +1,7 @@
 {
   "homepage": "https://t-ambur.github.io/CompanionForGrimDawn_v2",
   "name": "grim-dawn",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "private": true,
   "dependencies": {
     "@chakra-ui/core": "^0.4.1",

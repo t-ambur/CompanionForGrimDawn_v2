@@ -24,6 +24,11 @@ class Changes extends React.Component
                 </p>
                 <h1> Change Log </h1>
 
+                <h3> 8/14/2020 - v0.2.3 </h3>
+                <ul>
+                    <li> Finally fixed the search bar bug and restored the search bar to the app </li>
+                </ul>
+
                 <h3> 8/14/2020 - v0.2.2 </h3>
                 <ul>
                     <li> Removed mastery option from nav bar (grim tools already does this) </li>
