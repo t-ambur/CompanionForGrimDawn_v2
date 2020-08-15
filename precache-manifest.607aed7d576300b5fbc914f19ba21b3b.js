@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a373ca8911a7e5e1793acb1ec41d0dd",
+    "revision": "453d1fac2998a8f2e55233ca9cc071f1",
     "url": "/CompanionForGrimDawn_v2/index.html"
   },
   {
-    "revision": "f141929fbc38352abed8",
+    "revision": "390b0c3d2c749ae0e0a2",
     "url": "/CompanionForGrimDawn_v2/static/css/main.a197e158.chunk.css"
   },
   {
-    "revision": "3f9d3aee6011970e1555",
-    "url": "/CompanionForGrimDawn_v2/static/js/2.7764a12c.chunk.js"
+    "revision": "9f347c691f688306687a",
+    "url": "/CompanionForGrimDawn_v2/static/js/2.669f107d.chunk.js"
   },
   {
-    "revision": "f141929fbc38352abed8",
-    "url": "/CompanionForGrimDawn_v2/static/js/main.39fad580.chunk.js"
+    "revision": "390b0c3d2c749ae0e0a2",
+    "url": "/CompanionForGrimDawn_v2/static/js/main.d898397b.chunk.js"
   },
   {
     "revision": "c2f93e15b738f6cc9761",
