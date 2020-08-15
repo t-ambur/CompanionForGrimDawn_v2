@@ -24,3 +24,7 @@
 body {
   background-color: grey;
 }
+
+#textBlock {
+  padding-left:10px;
+}

@@ -11,13 +11,6 @@ import {
     MenuButton,
     MenuItem,
     MenuList,
-    Modal,
-    ModalBody,
-    ModalCloseButton,
-    ModalContent,
-    ModalFooter,
-    ModalHeader,
-    ModalOverlay,
     Stack,
     Tabs,
     TabList,
@@ -28,9 +21,9 @@ import {
 } from "@chakra-ui/core";
 import React from "react";
 import {ascendantImg, chaosImg, eldritchImg, imgBg, orderImg, primordialImg} from "./constants";
-import {isAvailable, getSummary} from "./Utils";
+import {isAvailable} from "./Utils";
 
-export function cardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, selected) {
+export function CardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked) {
     return (
         <Stack>
             <Text textAlign={[ 'left', 'center' ]}>
@@ -179,71 +172,17 @@ export function cardLayout(constellation, resources, onAddItemClicked, onRemoveI
                     }
                 </Stack>
             }
-            <Flex justify="center" align="center">
-                <ButtonGroup spacing={10}>
-                {isAvailable(constellation.requirements, resources) && !constellation.isSelected &&
-                    <Button onClick={() => onAddItemClicked(constellation)} size="lg"> Select </Button> }
-                {constellation.isSelected &&
-                    <Button onClick={() => onRemoveItemClicked(constellation)} size="lg"> Remove </Button> }
+            {
+            <Stack align={"center"} zIndex={1}>
+                <ButtonGroup>
+                    {isAvailable(constellation.requirements, resources) && !constellation.isSelected &&
+                        <Button onClick={() => onAddItemClicked(constellation)} size="lg"> Select </Button> }
+                    {constellation.isSelected &&
+                        <Button onClick={() => onRemoveItemClicked(constellation)} size="lg"> Remove </Button> }
                 </ButtonGroup>
-            </Flex>
+            </Stack>
+            }
         </Stack>
-    )
-}
-
-export function cardDetail(selected, isOpen, onClose, resources, onAddItemClicked, onRemoveItemClicked) {
-    return (
-        selected &&
-        <Modal isOpen={isOpen} onClose={onClose}>
-            <ModalOverlay/>
-            <ModalContent>
-                <ModalHeader> {selected.name} (Points: {selected.points})</ModalHeader>
-                <ModalCloseButton/>
-                <ModalBody>
-                    {
-                        <Stack>
-                            <Image h="250px" style={{
-                                backgroundImage: imgBg,
-                                backgroundPosition: 'center',
-                                backgroundSize: 'cover',
-                                backgroundRepeat: 'no-repeat'
-                            }} src={selected.imageSrc}/>
-                            {
-                                selected.description.split('\n').filter(function (el) {
-                                    return el !== "";
-                                }).map(line => {
-                                    return (
-                                        <Text px={4}>
-                                            {line}
-                                        </Text>
-                                    )
-                                })
-                            }
-                        </Stack>
-                    }
-                </ModalBody>
-
-                <ModalFooter>
-                    <Button variantColor="blue" mr={3} onClick={onClose}>
-                        Close
-                    </Button>
-
-                    {selected.isSelected &&
-                    <Button variantColor="red" variant="ghost" onClick={() => {
-                        if (onRemoveItemClicked(selected)) {
-                            onClose()
-                        }
-                    }}>Remove</Button>}
-
-                    {isAvailable(selected.requirements, resources) && !selected.isSelected &&
-                    <Button variantColor="green" variant="ghost" onClick={() => {
-                        if (onAddItemClicked(selected)) {
-                            onClose()
-                        }
-                    }}>Add</Button>}
-                </ModalFooter>
-            </ModalContent>
-        </Modal>
     )
 }
 
@@ -251,7 +190,8 @@ export function getHeader(resources, pointsUsed, listener) {
     return (
         <Stack background={"grey"} shadow="md" align={"center"} style={{
             position: "sticky",
-            top: "0"
+            top: "0",
+            zIndex: 1000
         }}>
             <Stack isInline w="100%" align={"center"}>
                 <Text w="100%" fontSize="4xl" px={8} my={2}>

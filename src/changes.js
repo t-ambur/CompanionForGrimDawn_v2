@@ -16,13 +16,26 @@ class Changes extends React.Component
 
     render() {
         return(
-            <div>
+            <div id="textBlock">
                 <p>
+                    This website loads better on mobile if you force 'Desktop' layout in your browser.
+                    <br/>
+                    <br/>
                     If you are having trouble seeing an update listed in this log: clear your cookies and cache for this webpage and refresh the page.
                     <br/>
                     You will always see the latest version if you set your browser to delete cookies for this webpage on browser close.
+                    <br/>
+                    <br/>
+                    Only the base directory (/CompanionForGrimDawn_v2) is connected to the internet. Trying to load this page or the 'Links' page directly will not work on github.io.
                 </p>
                 <h1> Change Log </h1>
+
+                <h3> 8/15/2020 - v0.2.4 </h3>
+                <ul>
+                    <li> Buttons no longer overlap header </li>
+                    <li> Cleaned up dead code leftover from UI change </li>
+                    <li> Minor CSS changes </li>
+                </ul>
 
                 <h3> 8/14/2020 - v0.2.3 </h3>
                 <ul>

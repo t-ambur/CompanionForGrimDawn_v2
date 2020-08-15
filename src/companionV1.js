@@ -12,12 +12,11 @@ import {
     PseudoBox,
     SimpleGrid,
     Stack,
-    Text,
-    useDisclosure
+    Text
 } from "@chakra-ui/core";
 import {getColor, getDependant, getPointsUsed, getSummary, sort} from './Utils'
 import constellations from './constellations'
-import {cardDetail, cardLayout, getHeader} from "./ui";
+import {CardLayout, getHeader} from "./ui";
 
 export default class CompanionV1 extends React.Component {
 
@@ -199,7 +198,7 @@ export default class CompanionV1 extends React.Component {
                                         shadow: "none",
                                     }}>
                                     {
-                                        cardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, selected, data)
+                                        CardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, selected, data)
                                     }
                                 </PseudoBox>
                             )

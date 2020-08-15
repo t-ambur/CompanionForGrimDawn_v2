@@ -1,7 +1,7 @@
 export function getColor(constellation, resources) {
     const selectedGreen = "#49ff42";
     const availableYellow = "#fff98a";
-    const unavailableRed = "#f01818";
+    const unavailableRed = "#d91818";
 
     if (constellation.isSelected) {
         return selectedGreen

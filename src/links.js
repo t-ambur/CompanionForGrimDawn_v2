@@ -16,7 +16,7 @@ class Links extends React.Component
 
     render() {
         return(
-            <div>
+            <div id="textBlock">
                 <h2> Important Links </h2>
                 <a href="https://docs.google.com/spreadsheets/d/1EUoW6I5brZDEvlex8UPt2Hvn9jTIejhF8LuVJ2JoESA/edit#gid=0"> Resistance Reduction Cheat Sheet by Reddit's u/DefinitelyNotCeno</a>
                 <br/>
