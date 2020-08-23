@@ -46,7 +46,12 @@ export default class CompanionV1 extends React.Component {
                     chaos: 0,
                     eldritch: 0,
                     order: 0,
-                    primordial: 0
+                    primordial: 0,
+                    ascendantG: 0,
+                    chaosG: 0,
+                    eldritchG: 0,
+                    orderG: 0,
+                    primordialG: 0
                 },
                 pathHistory: "",
                 pathSize: 0,
@@ -129,6 +134,11 @@ export default class CompanionV1 extends React.Component {
             resources.eldritch = 0;
             resources.order = 0;
             resources.primordial = 0;
+            resources.ascendantG = 0;
+            resources.chaosG = 0;
+            resources.eldritchG = 0;
+            resources.orderG = 0;
+            resources.primordialG = 0;
             pathHistory = "";
             pathSize = 0;
             this.setState({

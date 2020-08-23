@@ -179,6 +179,7 @@ export function CardLayout(constellation, resources, onAddItemClicked, onRemoveI
                         <Button onClick={() => onAddItemClicked(constellation)} size="lg"> Select </Button> }
                     {constellation.isSelected &&
                         <Button onClick={() => onRemoveItemClicked(constellation)} size="lg"> Remove </Button> }
+                    <Button onClick={() => console.log("clicked")} size="lg"> Make Goal </Button>
                 </ButtonGroup>
             </Stack>
             }
@@ -197,6 +198,7 @@ export function getHeader(resources, pointsUsed, listener) {
                 <Text w="100%" fontSize="4xl" px={8} my={2}>
                     Companion For Grim Dawn v2
                 </Text>
+                <Text> Current: </Text>
                 <Image py={2} pl={4} src={ascendantImg}/>
                 <Text>
                     {resources.ascendant}
@@ -231,7 +233,29 @@ export function getHeader(resources, pointsUsed, listener) {
                         </MenuList>
                     </Menu>
                 </Flex>
-
+            </Stack>
+            <Stack isInline>
+                <Text> Goal: </Text>
+            <Image py={2} pl={4} src={ascendantImg}/>
+                <Text>
+                    {resources.ascendantG}
+                </Text>
+                <Image py={2} pl={4} src={chaosImg}/>
+                <Text>
+                    {resources.chaosG}
+                </Text>
+                <Image py={2} pl={4} src={eldritchImg}/>
+                <Text>
+                    {resources.eldritchG}
+                </Text>
+                <Image py={2} pl={4} src={orderImg}/>
+                <Text>
+                    {resources.orderG}
+                </Text>
+                <Image py={2} pl={4} src={primordialImg}/>
+                <Text>
+                    {resources.primordialG}
+                </Text>
             </Stack>
             <InputGroup pb={4}>
                 <InputLeftElement
