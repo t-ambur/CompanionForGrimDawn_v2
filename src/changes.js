@@ -18,7 +18,7 @@ class Changes extends React.Component
         return(
             <div id="textBlock">
                 <p>
-                    This website loads better on mobile if you force 'Desktop' layout in your browser.
+                    This website 'may' load better on mobile if you force 'Desktop' layout in your browser.
                     <br/>
                     <br/>
                     If you are having trouble seeing an update listed in this log: clear your cookies and cache for this webpage and refresh the page.
@@ -29,6 +29,12 @@ class Changes extends React.Component
                     Only the base directory (/CompanionForGrimDawn_v2) is connected to the internet. Trying to load this page or the 'Links' page directly will not work on github.io.
                 </p>
                 <h1> Change Log </h1>
+
+                <h3> 9/7/2020 - v0.2.5 </h3>
+                <ul>
+                    <li> Can designate constellations as goals to build toward, amount needed displayed separately in top right. </li>
+                    <li> UI updates for goal changes. Plan to replace goal buttons with smaller images (like GD Companion for Android). </li>
+                </ul>
 
                 <h3> 8/15/2020 - v0.2.4 </h3>
                 <ul>

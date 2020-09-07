@@ -8,7 +8,10 @@ import Links from './links';
 
 function Nav()
 {
-
+const mystyle = {
+    textAlign: "center",
+    fontWeight: "bold"
+  };
 return(
   //This first div is the top navigation bar, the second div is the router for pages
   <Router>
@@ -23,6 +26,7 @@ return(
         <Link to="/CompanionForGrimDawn_v2/changelog">
             <button className="change-butt"> Change Log </button>
         </Link>
+        <span style={mystyle}> Companion For Grim Dawn v2 </span>
       </header>
     </div>
     <div>

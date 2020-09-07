@@ -39,7 +39,8 @@ export default class CompanionV1 extends React.Component {
                     rewards: obj.rewards,
                     imageSrc: obj.imageSrc,
                     description: obj.description,
-                    isSelected: false
+                    isSelected: false,
+                    isGoal: false
                 })),
                 resources: {
                     ascendant: 0,
@@ -68,7 +69,6 @@ export default class CompanionV1 extends React.Component {
 
     ConstellationGrid = () => {
         const resources = this.state.resources;
-        const selected = this.state.selected;
         let data = sort(this.state.constellations, resources)
             .filter(constellation => this.state.searchText ? constellation.name.toLowerCase().includes(this.state.searchText) || constellation.description.toLowerCase().includes(this.state.searchText) : true);
         let pathHistory = this.state.pathHistory;
@@ -90,6 +90,65 @@ export default class CompanionV1 extends React.Component {
             } else {
                 alert("You don't have enough points to add this devotion. Remove another one first.");
             }
+        };
+
+        const addGoals = (constellation) => {
+            if (constellation.requirements.ascendant > resources.ascendantG)
+            {
+                resources.ascendantG = constellation.requirements.ascendant;
+            }
+            if (constellation.requirements.chaos > resources.chaosG)
+            {
+                resources.chaosG = constellation.requirements.chaos;
+            }
+            if (constellation.requirements.eldritch > resources.eldritchG)
+            {
+                resources.eldritchG = constellation.requirements.eldritch;
+            }
+            if (constellation.requirements.order > resources.orderG)
+            {
+                resources.orderG = constellation.requirements.order;
+            }
+            if (constellation.requirements.primordial > resources.primordialG)
+            {
+                resources.primordialG = constellation.requirements.primordial;
+            }
+        };
+
+        const onGoalClicked = (constellation) => {
+            addGoals(constellation);
+            constellation.isGoal = true;
+            this.setState({
+                //constellations: data, // THIS CAUSED THE SEARCH BUG
+                resources: resources,
+                pathHistory: pathHistory,
+                pathSize: pathSize
+            });
+            save();
+        };
+
+        const resetGoals = () => {
+            resources.ascendantG = 0;
+            resources.chaosG = 0;
+            resources.eldritchG = 0;
+            resources.orderG = 0;
+            resources.primordialG = 0;
+            const goaled = this.state.constellations.filter(co => co.isGoal)
+            goaled.forEach(co => {
+                addGoals(co);
+            });
+        };
+
+        const onGoalRemoved = (constellation) => {
+            constellation.isGoal = false;
+            resetGoals();
+            this.setState({
+                // constellations: data,
+                resources: resources,
+                pathHistory: pathHistory,
+                pathSize: pathSize
+            });
+            save();
         };
 
         const addRes = (constellation) => {
@@ -128,6 +187,7 @@ export default class CompanionV1 extends React.Component {
         const onReset = () => {
             data.forEach((item) => {
                 item.isSelected = false
+                item.isGoal = false
             });
             resources.ascendant = 0;
             resources.chaos = 0;
@@ -208,7 +268,7 @@ export default class CompanionV1 extends React.Component {
                                         shadow: "none",
                                     }}>
                                     {
-                                        CardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, selected, data)
+                                        CardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, onGoalClicked, onGoalRemoved)
                                     }
                                 </PseudoBox>
                             )

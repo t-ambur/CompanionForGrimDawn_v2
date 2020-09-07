@@ -21,9 +21,9 @@ import {
 } from "@chakra-ui/core";
 import React from "react";
 import {ascendantImg, chaosImg, eldritchImg, imgBg, orderImg, primordialImg} from "./constants";
-import {isAvailable} from "./Utils";
+import {isAvailable, hasRequirements} from "./Utils";
 
-export function CardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked) {
+export function CardLayout(constellation, resources, onAddItemClicked, onRemoveItemClicked, onGoalClicked, onGoalRemoved) {
     return (
         <Stack>
             <Text textAlign={[ 'left', 'center' ]}>
@@ -179,7 +179,10 @@ export function CardLayout(constellation, resources, onAddItemClicked, onRemoveI
                         <Button onClick={() => onAddItemClicked(constellation)} size="lg"> Select </Button> }
                     {constellation.isSelected &&
                         <Button onClick={() => onRemoveItemClicked(constellation)} size="lg"> Remove </Button> }
-                    <Button onClick={() => console.log("clicked")} size="lg"> Make Goal </Button>
+                    {!constellation.isGoal && hasRequirements(constellation) &&
+                    <Button onClick={() => onGoalClicked(constellation)} size="lg"> Make Goal </Button> }
+                    { constellation.isGoal &&
+                    <Button onClick={() => onGoalRemoved(constellation)} size="lg"> Remove Goal </Button> }
                 </ButtonGroup>
             </Stack>
             }
@@ -195,10 +198,7 @@ export function getHeader(resources, pointsUsed, listener) {
             zIndex: 1000
         }}>
             <Stack isInline w="100%" align={"center"}>
-                <Text w="100%" fontSize="4xl" px={8} my={2}>
-                    Companion For Grim Dawn v2
-                </Text>
-                <Text> Current: </Text>
+                <Text pl={4}> Current: </Text>
                 <Image py={2} pl={4} src={ascendantImg}/>
                 <Text>
                     {resources.ascendant}
@@ -219,23 +219,14 @@ export function getHeader(resources, pointsUsed, listener) {
                 <Text>
                     {resources.primordial}
                 </Text>
-                <Text w="100%" fontSize="4xl" ml={8} my={2}>
-                    Points Used: {pointsUsed} / 55
-                </Text>
                 <Flex w="100%" px="64px" justifyContent={"flex-end"}>
-                    <Menu>
-                        <MenuButton as={Button} rightIcon="chevron-down">
-                            Actions
-                        </MenuButton>
-                        <MenuList>
-                            <MenuItem p={2} onClick={listener.showSummary}>Show Summary</MenuItem>
-                            <MenuItem p={2} onClick={listener.reset}>Reset</MenuItem>
-                        </MenuList>
-                    </Menu>
+                    <Text fontSize="4xl" ml={8} my={2}>
+                        Points Used: {pointsUsed} / 55
+                    </Text>
                 </Flex>
             </Stack>
-            <Stack isInline>
-                <Text> Goal: </Text>
+            <Stack w="100%" isInline align={"center"} justifyContent={"center"}>
+                <Text pl={4} pr={5}> Goal: </Text>
             <Image py={2} pl={4} src={ascendantImg}/>
                 <Text>
                     {resources.ascendantG}
@@ -256,6 +247,17 @@ export function getHeader(resources, pointsUsed, listener) {
                 <Text>
                     {resources.primordialG}
                 </Text>
+                <Flex w="100%" px="64px" justifyContent={"flex-end"}>
+                    <Menu>
+                        <MenuButton as={Button} rightIcon="chevron-down">
+                            Actions
+                        </MenuButton>
+                        <MenuList>
+                            <MenuItem p={2} onClick={listener.showSummary}>Show Summary</MenuItem>
+                            <MenuItem p={2} onClick={listener.reset}>Reset</MenuItem>
+                        </MenuList>
+                    </Menu>
+                </Flex>
             </Stack>
             <InputGroup pb={4}>
                 <InputLeftElement
