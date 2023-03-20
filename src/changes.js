@@ -30,6 +30,11 @@ class Changes extends React.Component
                 </p>
                 <h1> Change Log </h1>
 
+                <h3> 3/19/2023 - v1.0.0 </h3>
+                <ul>
+                    <li> All Devotion Descriptions up to date with Grim Dawn version v1.1.9.7 </li>
+                </ul>
+
                 <h3> 9/7/2020 - v0.2.5 </h3>
                 <ul>
                     <li> Can designate constellations as goals to build toward, amount needed displayed separately in top right. </li>
